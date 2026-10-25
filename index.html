@@ -178,14 +178,16 @@ function renderTab(){
   if(S.tab==="post"){
     var d=S.day||(S.days.filter(function(x){return x.post>0;})[0]||{d:S.today}).d;
     loadDay(d).then(function(o){
-      renderList(el,(o.matches||[]).filter(function(m){return isPost(m.status);}),"post","這日冇已完場比賽。");
+      var rows=(o.matches||[]).filter(function(m){return isPost(m.status);});
+      rows.sort(function(a,b){return b.kickoff_ms-a.kickoff_ms;});   // 已完場：新到舊
+      renderList(el,rows,"post","這日冇已完場比賽。");
     }).catch(function(){el.innerHTML="<div class='empty'>讀不到 "+d+" 的資料。</div>";});
   }else if(S.tab==="live"){
     var cand=S.days.filter(function(x){return x.d>=ago(1)&&x.d<=S.today;}).map(function(x){return x.d;});
     if(!cand.length){el.innerHTML="<div class='empty'>現時沒有進行中的比賽。</div>";return;}
     Promise.all(cand.map(loadDay)).then(function(os){
       var rows=[];os.forEach(function(o){(o.matches||[]).forEach(function(m){if(isLive(m.status))rows.push(m);});});
-      rows.sort(function(a,b){return b.kickoff_ms-a.kickoff_ms;});
+      rows.sort(function(a,b){return b.kickoff_ms-a.kickoff_ms;});   // 比賽中：新到舊
       renderList(el,rows,"live","現時沒有進行中的比賽。");
     });
   }else{
