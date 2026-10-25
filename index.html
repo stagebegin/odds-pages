@@ -28,6 +28,7 @@ a{color:var(--accent);text-decoration:none;cursor:pointer}
 .ht{color:var(--muted);font-size:11px}
 .st{font-size:12px;color:#b45309;font-weight:600}
 .tbl a{margin:0 3px}
+.soon{display:inline-block;color:#98a29c;font-size:11px;padding:0 4px}
 .empty,.load{color:var(--muted);font-size:13px;padding:12px 2px}
 .ov{position:fixed;inset:0;background:rgba(0,0,0,.48);display:flex;align-items:center;justify-content:center;z-index:9;padding:16px}
 .box{background:#fff;width:min(1500px,97vw);height:93vh;border-radius:8px;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,.3)}
@@ -93,11 +94,7 @@ function rowHtml(m,kind){
   var cells="";
   if(kind==="post"){cells="<td data-l='比分'>"+(scoreHtml(m)||("<span class='st'>"+esc(ST[m.status]||"—")+"</span>"))+"</td>";}
   else if(kind==="live"){cells="<td data-l='狀態'><span class='st'>"+esc(ST[m.status]||"—")+"</span></td><td data-l='比分'>"+(scoreHtml(m)||"—")+"</td>";}
-  var links="—";
-  if(m.has_tables){
-    var t=esc(m.league+" "+m.home+" "+m.away+" — ");
-    links="<a class='mdl' data-mid='"+m.mid+"' data-kind='red' data-title=\""+t+"紅區\">紅區</a> <a class='mdl' data-mid='"+m.mid+"' data-kind='sum' data-title=\""+t+"加總\">加總</a>";
-  }
+  var links=m.tbl_html||"—";
   return "<tr><td data-l='開賽'>"+esc(m.kickoff)+"</td><td class='l' data-l='聯賽'>"+esc(m.league)+"</td>"
    +"<td class='l mt'>"+esc(m.home)+" vs "+esc(m.away)+"</td>"+cells
    +"<td data-l='讓球盤'><span class='tag'>"+hc(m.hcap)+"</span></td><td class='tbl'>"+links+"</td></tr>";
