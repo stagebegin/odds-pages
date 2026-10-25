@@ -127,7 +127,7 @@ function bindModal(el){
   el.querySelectorAll("a.mdl").forEach(function(a){
     a.onclick=function(){
       var mid=a.getAttribute("data-mid"),kind=a.getAttribute("data-kind");
-      var d=(S.tab==="post"&&S.day)?S.day:S.today;
+      var d=a.getAttribute("data-day")||((S.tab==="post"&&S.day)?S.day:S.today);
       loadDay(d).catch(function(){return loadDay(S.day||S.today);}).then(function(o){
         var m=(o.matches||[]).filter(function(x){return x.mid===mid;})[0];
         var tk=m&&m.tables?m.tables[kind]:null;
