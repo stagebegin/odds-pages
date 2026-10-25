@@ -1,0 +1,5210 @@
+[
+ {
+  "mid": "2940254",
+  "kickoff": "2026-10-24 08:00 (UTC+8)",
+  "kickoff_ms": 1792800000000,
+  "league": "巴西乙",
+  "home": "利斯菲體育會",
+  "away": "基斯奧馬",
+  "hcap": 0.25,
+  "books": 332,
+  "n8": 306,
+  "avg": [
+   2.7874509803921574,
+   3.221503267973858,
+   2.4288562091503247
+  ],
+  "payout": 92.51710388564196,
+  "sum": [
+   5.02,
+   0.6000000000000001,
+   -6.580000000000001
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2940254/freeze_rows_2940254.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2940254/red_diff_2940254.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2940254/post_freeze_2940254.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2940254/sum_delta_table_2940254.html"
+  }
+ },
+ {
+  "mid": "3092312",
+  "kickoff": "2026-10-24 09:00 (UTC+8)",
+  "kickoff_ms": 1792803600000,
+  "league": "新西蘭聯",
+  "home": "奧克蘭城",
+  "away": "奧克蘭聯",
+  "hcap": 0.5,
+  "books": 230,
+  "n8": 207,
+  "avg": [
+   1.8142028985507237,
+   3.554057971014496,
+   3.5442995169082168
+  ],
+  "payout": 89.70878958223638,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3092312/freeze_rows_3092312.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3092312/red_diff_3092312.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3092312/post_freeze_3092312.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3092312/sum_delta_table_3092312.html"
+  }
+ },
+ {
+  "mid": "2957082",
+  "kickoff": "2026-10-24 09:30 (UTC+8)",
+  "kickoff_ms": 1792805400000,
+  "league": "美女職",
+  "home": "猶他王室女足",
+  "away": "西雅圖統治女足",
+  "hcap": 0.0,
+  "books": 247,
+  "n8": 152,
+  "avg": [
+   2.3350657894736835,
+   3.4165789473684245,
+   2.581710526315792
+  ],
+  "payout": 90.2295805856976,
+  "sum": [
+   0.580000000000001,
+   -0.25,
+   0.3200000000000003
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2957082/freeze_rows_2957082.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2957082/red_diff_2957082.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2957082/post_freeze_2957082.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2957082/sum_delta_table_2957082.html"
+  }
+ },
+ {
+  "mid": "2957083",
+  "kickoff": "2026-10-24 10:00 (UTC+8)",
+  "kickoff_ms": 1792807200000,
+  "league": "美女職",
+  "home": "波特蘭荊棘女足",
+  "away": "北卡羅萊納女足",
+  "hcap": 0.0,
+  "books": 244,
+  "n8": 126,
+  "avg": [
+   2.383174603174603,
+   3.730079365079364,
+   2.3738888888888896
+  ],
+  "payout": 90.1754819305634,
+  "sum": [
+   0.4400000000000004,
+   -0.40000000000000036,
+   0.020000000000000462
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2957083/freeze_rows_2957083.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2957083/red_diff_2957083.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2957083/post_freeze_2957083.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2957083/sum_delta_table_2957083.html"
+  }
+ },
+ {
+  "mid": "2997457",
+  "kickoff": "2026-10-24 11:00 (UTC+8)",
+  "kickoff_ms": 1792810800000,
+  "league": "墨西聯",
+  "home": "阿蘭特",
+  "away": "聖路易斯競技",
+  "hcap": 0.25,
+  "books": 349,
+  "n8": 267,
+  "avg": [
+   2.189176029962548,
+   3.3723595505618005,
+   3.0451310861423226
+  ],
+  "payout": 92.44585672556252,
+  "sum": [
+   -0.09999999999999964,
+   -0.10000000000000009,
+   -0.16000000000000014
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2997457/freeze_rows_2997457.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2997457/red_diff_2997457.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2997457/post_freeze_2997457.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2997457/sum_delta_table_2997457.html"
+  }
+ },
+ {
+  "mid": "3046063",
+  "kickoff": "2026-10-24 11:10 (UTC+8)",
+  "kickoff_ms": 1792811400000,
+  "league": "墨西女超",
+  "home": "蒂華納女足",
+  "away": "普馬斯女足",
+  "hcap": -0.5,
+  "books": 243,
+  "n8": 166,
+  "avg": [
+   4.037168674698798,
+   3.8069277108433743,
+   1.6766867469879516
+  ],
+  "payout": 90.35123911988345,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3046063/freeze_rows_3046063.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3046063/red_diff_3046063.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3046063/post_freeze_3046063.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3046063/sum_delta_table_3046063.html"
+  }
+ },
+ {
+  "mid": "3071407",
+  "kickoff": "2026-10-24 11:15 (UTC+8)",
+  "kickoff_ms": 1792811700000,
+  "league": "澳女聯",
+  "home": "西悉尼流浪者女足",
+  "away": "布里斯本獅吼女足",
+  "hcap": -0.25,
+  "books": 218,
+  "n8": 193,
+  "avg": [
+   2.5495336787564784,
+   3.2459585492227987,
+   2.4637305699481855
+  ],
+  "payout": 90.40017612934341,
+  "sum": [
+   -2.5099999999999993,
+   -0.3999999999999999,
+   2.16
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071407/freeze_rows_3071407.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071407/red_diff_3071407.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071407/post_freeze_3071407.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071407/sum_delta_table_3071407.html"
+  }
+ },
+ {
+  "mid": "3041380",
+  "kickoff": "2026-10-24 12:00 (UTC+8)",
+  "kickoff_ms": 1792814400000,
+  "league": "澳超",
+  "home": "紐卡素噴射機",
+  "away": "麥克阿瑟FC",
+  "hcap": 0.25,
+  "books": 351,
+  "n8": 301,
+  "avg": [
+   2.056976744186048,
+   3.7883720930232547,
+   3.0768106312292387
+  ],
+  "payout": 93.01219229216753,
+  "sum": [
+   0.6200000000000001,
+   -0.40000000000000036,
+   -0.6000000000000001
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3041380/freeze_rows_3041380.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3041380/red_diff_3041380.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3041380/post_freeze_3041380.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3041380/sum_delta_table_3041380.html"
+  }
+ },
+ {
+  "mid": "3067138",
+  "kickoff": "2026-10-24 12:00 (UTC+8)",
+  "kickoff_ms": 1792814400000,
+  "league": "日女聯",
+  "home": "新潟天鵝女足",
+  "away": "千葉市原女足",
+  "hcap": 0.25,
+  "books": 168,
+  "n8": 145,
+  "avg": [
+   1.6939310344827587,
+   3.508689655172416,
+   4.228827586206897
+  ],
+  "payout": 89.94248309927005,
+  "sum": [
+   -0.94,
+   0.40000000000000036,
+   1.6499999999999995
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3067138/freeze_rows_3067138.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3067138/red_diff_3067138.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3067138/post_freeze_3067138.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3067138/sum_delta_table_3067138.html"
+  }
+ },
+ {
+  "mid": "3071130",
+  "kickoff": "2026-10-24 12:00 (UTC+8)",
+  "kickoff_ms": 1792814400000,
+  "league": "日足聯",
+  "home": "潤梅爾青森",
+  "away": "偉士帕大分",
+  "hcap": 0.25,
+  "books": 227,
+  "n8": 191,
+  "avg": [
+   2.310523560209423,
+   3.0803141361256583,
+   2.848429319371728
+  ],
+  "payout": 90.21075910362015,
+  "sum": [
+   -0.0600000000000005,
+   0.40000000000000036,
+   -0.5
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071130/freeze_rows_3071130.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071130/red_diff_3071130.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071130/post_freeze_3071130.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071130/sum_delta_table_3071130.html"
+  }
+ },
+ {
+  "mid": "3071131",
+  "kickoff": "2026-10-24 12:00 (UTC+8)",
+  "kickoff_ms": 1792814400000,
+  "league": "日足聯",
+  "home": "丸安岡崎",
+  "away": "布瑞歐碧卡浦安",
+  "hcap": 0.0,
+  "books": 218,
+  "n8": 184,
+  "avg": [
+   2.1541847826086964,
+   3.155923913043481,
+   3.0136956521739164
+  ],
+  "payout": 89.8556833143656,
+  "sum": [
+   -1.9000000000000004,
+   0.6500000000000004,
+   1.15
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071131/freeze_rows_3071131.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071131/red_diff_3071131.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071131/post_freeze_3071131.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071131/sum_delta_table_3071131.html"
+  }
+ },
+ {
+  "mid": "3071133",
+  "kickoff": "2026-10-24 12:00 (UTC+8)",
+  "kickoff_ms": 1792814400000,
+  "league": "日足聯",
+  "home": "J利斯",
+  "away": "威蒂恩三重",
+  "hcap": -0.25,
+  "books": 210,
+  "n8": 104,
+  "avg": [
+   2.808653846153847,
+   2.952211538461538,
+   2.4041346153846153
+  ],
+  "payout": 90.0315572797256,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071133/freeze_rows_3071133.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071133/red_diff_3071133.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071133/post_freeze_3071133.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071133/sum_delta_table_3071133.html"
+  }
+ },
+ {
+  "mid": "3071408",
+  "kickoff": "2026-10-24 12:00 (UTC+8)",
+  "kickoff_ms": 1792814400000,
+  "league": "澳女聯",
+  "home": "中岸水手女足",
+  "away": "堪培拉聯女足",
+  "hcap": -0.5,
+  "books": 252,
+  "n8": 222,
+  "avg": [
+   2.9260810810810853,
+   3.4485585585585596,
+   2.113648648648651
+  ],
+  "payout": 90.5103691725024,
+  "sum": [
+   -5.3500000000000005,
+   -0.40000000000000036,
+   3.8
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071408/freeze_rows_3071408.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071408/red_diff_3071408.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071408/post_freeze_3071408.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071408/sum_delta_table_3071408.html"
+  }
+ },
+ {
+  "mid": "3101974",
+  "kickoff": "2026-10-24 12:00 (UTC+8)",
+  "kickoff_ms": 1792814400000,
+  "league": "澳錦標",
+  "home": "馬可尼",
+  "away": "歐克萊卡諾",
+  "hcap": -0.25,
+  "books": 230,
+  "n8": 213,
+  "avg": [
+   2.9117840375586863,
+   3.3217840375586842,
+   2.227558685446011
+  ],
+  "payout": 91.45808310807288,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3101974/freeze_rows_3101974.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3101974/red_diff_3101974.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3101974/post_freeze_3101974.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3101974/sum_delta_table_3101974.html"
+  }
+ },
+ {
+  "mid": "2929747",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "韓K聯",
+  "home": "FC安養",
+  "away": "全北汽車",
+  "hcap": -0.5,
+  "books": 354,
+  "n8": 246,
+  "avg": [
+   3.5819918699187,
+   3.42719512195122,
+   1.9570325203252041
+  ],
+  "payout": 92.42692697881435,
+  "sum": [
+   -2.85,
+   -0.44999999999999973,
+   2.460000000000001
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2929747/freeze_rows_2929747.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2929747/red_diff_2929747.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2929747/post_freeze_2929747.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2929747/sum_delta_table_2929747.html"
+  }
+ },
+ {
+  "mid": "2929748",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "韓K聯",
+  "home": "富川FC",
+  "away": "FC光州",
+  "hcap": 0.25,
+  "books": 353,
+  "n8": 288,
+  "avg": [
+   2.189375,
+   3.270243055555558,
+   3.0667708333333343
+  ],
+  "payout": 91.85984825156486,
+  "sum": [
+   2.62,
+   -0.05000000000000071,
+   -3.2499999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2929748/freeze_rows_2929748.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2929748/red_diff_2929748.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2929748/post_freeze_2929748.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2929748/sum_delta_table_2929748.html"
+  }
+ },
+ {
+  "mid": "2929749",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "韓K聯",
+  "home": "金泉尚武",
+  "away": "大田市民",
+  "hcap": -0.5,
+  "books": 296,
+  "n8": 244,
+  "avg": [
+   3.5651639344262294,
+   3.4867213114754105,
+   1.92081967213115
+  ],
+  "payout": 91.91975049192172,
+  "sum": [
+   1.3999999999999995,
+   0.9000000000000008,
+   -1.3399999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2929749/freeze_rows_2929749.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2929749/red_diff_2929749.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2929749/post_freeze_2929749.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2929749/sum_delta_table_2929749.html"
+  }
+ },
+ {
+  "mid": "2929750",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "韓K聯",
+  "home": "仁川聯",
+  "away": "濟州SK",
+  "hcap": 0.25,
+  "books": 350,
+  "n8": 262,
+  "avg": [
+   2.2279007633587797,
+   3.078587786259542,
+   3.182366412213739
+  ],
+  "payout": 91.91946478880269,
+  "sum": [
+   -0.3799999999999981,
+   -0.10000000000000009,
+   0.5
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2929750/freeze_rows_2929750.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2929750/red_diff_2929750.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2929750/post_freeze_2929750.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2929750/sum_delta_table_2929750.html"
+  }
+ },
+ {
+  "mid": "2929751",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "韓K聯",
+  "home": "FC首爾",
+  "away": "FC江原",
+  "hcap": 0.5,
+  "books": 350,
+  "n8": 259,
+  "avg": [
+   1.806679536679538,
+   3.4779536679536642,
+   4.133243243243241
+  ],
+  "payout": 92.33885365597676,
+  "sum": [
+   0.41999999999999993,
+   -0.15000000000000036,
+   -1.1300000000000008
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2929751/freeze_rows_2929751.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2929751/red_diff_2929751.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2929751/post_freeze_2929751.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2929751/sum_delta_table_2929751.html"
+  }
+ },
+ {
+  "mid": "2929752",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "韓K聯",
+  "home": "蔚山HD",
+  "away": "浦項制鐵",
+  "hcap": 0.5,
+  "books": 352,
+  "n8": 250,
+  "avg": [
+   1.8205200000000012,
+   3.6161200000000004,
+   3.8707999999999956
+  ],
+  "payout": 92.23580808490038,
+  "sum": [
+   -1.4999999999999991,
+   0.8500000000000001,
+   2.4999999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2929752/freeze_rows_2929752.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2929752/red_diff_2929752.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2929752/post_freeze_2929752.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2929752/sum_delta_table_2929752.html"
+  }
+ },
+ {
+  "mid": "3000135",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "日職乙",
+  "home": "藤枝MYFC",
+  "away": "德島漩渦",
+  "hcap": 0.0,
+  "books": 296,
+  "n8": 139,
+  "avg": [
+   2.503021582733812,
+   3.0306474820143894,
+   2.7930935251798577
+  ],
+  "payout": 91.95355056554126,
+  "sum": [
+   -0.10000000000000053,
+   0.14000000000000057,
+   -0.09999999999999964
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000135/freeze_rows_3000135.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000135/red_diff_3000135.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000135/post_freeze_3000135.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000135/sum_delta_table_3000135.html"
+  }
+ },
+ {
+  "mid": "3000139",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "日職乙",
+  "home": "RB大宮松鼠",
+  "away": "FC橫濱",
+  "hcap": 0.0,
+  "books": 319,
+  "n8": 230,
+  "avg": [
+   2.354434782608697,
+   3.589652173913042,
+   2.565434782608698
+  ],
+  "payout": 91.48240397142926,
+  "sum": [
+   0.8400000000000007,
+   0.04999999999999982,
+   -0.8999999999999995
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000139/freeze_rows_3000139.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000139/red_diff_3000139.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000139/post_freeze_3000139.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000139/sum_delta_table_3000139.html"
+  }
+ },
+ {
+  "mid": "3001245",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "日職丙",
+  "home": "草津溫泉",
+  "away": "讚岐烏冬",
+  "hcap": 0.25,
+  "books": 241,
+  "n8": 207,
+  "avg": [
+   2.5955555555555576,
+   3.2867632850241537,
+   2.3911594202898554
+  ],
+  "payout": 90.27455699916781,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001245/freeze_rows_3001245.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001245/red_diff_3001245.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001245/post_freeze_3001245.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001245/sum_delta_table_3001245.html"
+  }
+ },
+ {
+  "mid": "3001246",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "日職丙",
+  "home": "奈良體育會",
+  "away": "FC琉球",
+  "hcap": 0.25,
+  "books": 249,
+  "n8": 146,
+  "avg": [
+   2.0768493150684932,
+   3.570684931506853,
+   2.895273972602739
+  ],
+  "payout": 90.33853308379516,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001246/freeze_rows_3001246.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001246/red_diff_3001246.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001246/post_freeze_3001246.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001246/sum_delta_table_3001246.html"
+  }
+ },
+ {
+  "mid": "3001247",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "日職丙",
+  "home": "大阪俱樂部",
+  "away": "鹿兒島聯隊",
+  "hcap": -0.25,
+  "books": 238,
+  "n8": 176,
+  "avg": [
+   2.7801704545454573,
+   3.197159090909089,
+   2.2986931818181806
+  ],
+  "payout": 90.29364615653131,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001247/freeze_rows_3001247.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001247/red_diff_3001247.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001247/post_freeze_3001247.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001247/sum_delta_table_3001247.html"
+  }
+ },
+ {
+  "mid": "3001249",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "日職丙",
+  "home": "SC相模原",
+  "away": "櫪木SC",
+  "hcap": 0.25,
+  "books": 228,
+  "n8": 217,
+  "avg": [
+   2.09746543778802,
+   3.166221198156683,
+   3.1541474654377883
+  ],
+  "payout": 90.11909984373068,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001249/freeze_rows_3001249.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001249/red_diff_3001249.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001249/post_freeze_3001249.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001249/sum_delta_table_3001249.html"
+  }
+ },
+ {
+  "mid": "3022019",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "俄甲",
+  "home": "SKA哈巴羅夫斯克",
+  "away": "克拉斯諾亞爾斯克",
+  "hcap": 0.25,
+  "books": 107,
+  "n8": 60,
+  "avg": [
+   2.221333333333333,
+   3.292333333333333,
+   2.9566666666666657
+  ],
+  "payout": 91.56379375923595,
+  "sum": [
+   -0.020000000000000462,
+   0.0,
+   0.25
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3022019/freeze_rows_3022019.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3022019/red_diff_3022019.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3022019/post_freeze_3022019.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3022019/sum_delta_table_3022019.html"
+  }
+ },
+ {
+  "mid": "3067139",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "日女聯",
+  "home": "仙台維加泰女足",
+  "away": "野島斯特拉女足",
+  "hcap": -0.25,
+  "books": 172,
+  "n8": 96,
+  "avg": [
+   2.9549999999999983,
+   3.0812499999999994,
+   2.2377083333333325
+  ],
+  "payout": 90.10317121658893,
+  "sum": [
+   1.4400000000000004,
+   -0.20000000000000018,
+   -0.8599999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3067139/freeze_rows_3067139.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3067139/red_diff_3067139.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3067139/post_freeze_3067139.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3067139/sum_delta_table_3067139.html"
+  }
+ },
+ {
+  "mid": "3067140",
+  "kickoff": "2026-10-24 13:00 (UTC+8)",
+  "kickoff_ms": 1792818000000,
+  "league": "日女聯",
+  "home": "浦和紅鑽女足",
+  "away": "伊納卡女足",
+  "hcap": 0.25,
+  "books": 170,
+  "n8": 82,
+  "avg": [
+   1.974268292682927,
+   3.3908536585365856,
+   3.2253658536585355
+  ],
+  "payout": 89.97093087681634,
+  "sum": [
+   -0.9600000000000004,
+   0.1499999999999999,
+   1.0700000000000003
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3067140/freeze_rows_3067140.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3067140/red_diff_3067140.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3067140/post_freeze_3067140.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3067140/sum_delta_table_3067140.html"
+  }
+ },
+ {
+  "mid": "3000506",
+  "kickoff": "2026-10-24 14:00 (UTC+8)",
+  "kickoff_ms": 1792821600000,
+  "league": "日職聯",
+  "home": "鹿島鹿角",
+  "away": "柏雷素爾",
+  "hcap": 0.25,
+  "books": 341,
+  "n8": 288,
+  "avg": [
+   2.2271527777777793,
+   3.4404861111111114,
+   2.9481944444444457
+  ],
+  "payout": 92.69120336274877,
+  "sum": [
+   -0.2600000000000007,
+   0.10000000000000009,
+   0.24999999999999956
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000506/freeze_rows_3000506.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000506/red_diff_3000506.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000506/post_freeze_3000506.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000506/sum_delta_table_3000506.html"
+  }
+ },
+ {
+  "mid": "3000511",
+  "kickoff": "2026-10-24 14:00 (UTC+8)",
+  "kickoff_ms": 1792821600000,
+  "league": "日職聯",
+  "home": "東京綠茵",
+  "away": "福岡黃蜂",
+  "hcap": -0.25,
+  "books": 329,
+  "n8": 266,
+  "avg": [
+   3.0655639097744376,
+   2.9095112781954904,
+   2.4469172932330827
+  ],
+  "payout": 92.71431659456354,
+  "sum": [
+   -0.20000000000000018,
+   -0.20000000000000018,
+   0.20000000000000018
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000511/freeze_rows_3000511.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000511/red_diff_3000511.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000511/post_freeze_3000511.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000511/sum_delta_table_3000511.html"
+  }
+ },
+ {
+  "mid": "3000512",
+  "kickoff": "2026-10-24 14:00 (UTC+8)",
+  "kickoff_ms": 1792821600000,
+  "league": "日職聯",
+  "home": "神戶勝利船",
+  "away": "町田澤維亞",
+  "hcap": 0.25,
+  "books": 350,
+  "n8": 315,
+  "avg": [
+   2.469650793650795,
+   3.176761904761912,
+   2.796984126984127
+  ],
+  "payout": 92.83073425360571,
+  "sum": [
+   0.7600000000000002,
+   0.20000000000000018,
+   -2.1999999999999993
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000512/freeze_rows_3000512.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000512/red_diff_3000512.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000512/post_freeze_3000512.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000512/sum_delta_table_3000512.html"
+  }
+ },
+ {
+  "mid": "3041381",
+  "kickoff": "2026-10-24 14:00 (UTC+8)",
+  "kickoff_ms": 1792821600000,
+  "league": "澳超",
+  "home": "西悉尼流浪者",
+  "away": "奧克蘭FC",
+  "hcap": 0.0,
+  "books": 349,
+  "n8": 301,
+  "avg": [
+   2.5912292358803968,
+   3.427043189368769,
+   2.5195348837209295
+  ],
+  "payout": 93.05679001710097,
+  "sum": [
+   -0.22000000000000064,
+   -0.09999999999999964,
+   0.5
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3041381/freeze_rows_3041381.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3041381/red_diff_3041381.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3041381/post_freeze_3041381.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3041381/sum_delta_table_3041381.html"
+  }
+ },
+ {
+  "mid": "3071409",
+  "kickoff": "2026-10-24 14:00 (UTC+8)",
+  "kickoff_ms": 1792821600000,
+  "league": "澳女聯",
+  "home": "阿德萊德聯女足",
+  "away": "珀斯光輝女足",
+  "hcap": 0.0,
+  "books": 221,
+  "n8": 118,
+  "avg": [
+   2.1814406779661004,
+   3.4616949152542347,
+   2.8058474576271206
+  ],
+  "payout": 90.60539449602003,
+  "sum": [
+   0.5999999999999988,
+   0.19999999999999973,
+   -0.7000000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071409/freeze_rows_3071409.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071409/red_diff_3071409.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071409/post_freeze_3071409.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071409/sum_delta_table_3071409.html"
+  }
+ },
+ {
+  "mid": "3101951",
+  "kickoff": "2026-10-24 14:00 (UTC+8)",
+  "kickoff_ms": 1792821600000,
+  "league": "澳錦標",
+  "home": "坎培拉FC",
+  "away": "薩瑟蘭德",
+  "hcap": -0.5,
+  "books": 236,
+  "n8": 206,
+  "avg": [
+   3.3440291262135933,
+   3.768398058252429,
+   1.8863106796116507
+  ],
+  "payout": 91.3625339681909,
+  "sum": [
+   0.7999999999999998,
+   -0.8499999999999996,
+   -0.10000000000000053
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3101951/freeze_rows_3101951.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3101951/red_diff_3101951.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3101951/post_freeze_3101951.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3101951/sum_delta_table_3101951.html"
+  }
+ },
+ {
+  "mid": "3000505",
+  "kickoff": "2026-10-24 15:00 (UTC+8)",
+  "kickoff_ms": 1792825200000,
+  "league": "日職聯",
+  "home": "大阪飛腳",
+  "away": "京都不死鳥",
+  "hcap": 0.5,
+  "books": 341,
+  "n8": 301,
+  "avg": [
+   1.8910631229235855,
+   3.6551495016611306,
+   3.605548172757472
+  ],
+  "payout": 92.61488573761257,
+  "sum": [
+   -1.339999999999999,
+   0.0,
+   2.7999999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000505/freeze_rows_3000505.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000505/red_diff_3000505.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000505/post_freeze_3000505.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000505/sum_delta_table_3000505.html"
+  }
+ },
+ {
+  "mid": "2944830",
+  "kickoff": "2026-10-24 15:30 (UTC+8)",
+  "kickoff_ms": 1792827000000,
+  "league": "中超",
+  "home": "天津津門虎",
+  "away": "上海海港",
+  "hcap": -0.25,
+  "books": 286,
+  "n8": 241,
+  "avg": [
+   2.660622406639005,
+   3.37593360995851,
+   2.42585062240664
+  ],
+  "payout": 92.22601149926457,
+  "sum": [
+   0.10999999999999677,
+   0.5499999999999994,
+   -0.8399999999999999
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2944830/freeze_rows_2944830.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2944830/red_diff_2944830.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2944830/post_freeze_2944830.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2944830/sum_delta_table_2944830.html"
+  }
+ },
+ {
+  "mid": "2944831",
+  "kickoff": "2026-10-24 15:30 (UTC+8)",
+  "kickoff_ms": 1792827000000,
+  "league": "中超",
+  "home": "成都蓉城",
+  "away": "大連英博",
+  "hcap": 0.25,
+  "books": 353,
+  "n8": 265,
+  "avg": [
+   1.9548301886792439,
+   3.753169811320754,
+   3.2595471698113205
+  ],
+  "payout": 92.1840878348756,
+  "sum": [
+   -0.7200000000000002,
+   0.19999999999999973,
+   0.8499999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2944831/freeze_rows_2944831.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2944831/red_diff_2944831.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2944831/post_freeze_2944831.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2944831/sum_delta_table_2944831.html"
+  }
+ },
+ {
+  "mid": "2944832",
+  "kickoff": "2026-10-24 15:30 (UTC+8)",
+  "kickoff_ms": 1792827000000,
+  "league": "中超",
+  "home": "武漢三鎮",
+  "away": "山東泰山",
+  "hcap": -0.5,
+  "books": 351,
+  "n8": 304,
+  "avg": [
+   3.387532894736845,
+   4.08720394736842,
+   1.8358881578947355
+  ],
+  "payout": 92.20315255822777,
+  "sum": [
+   1.5000000000000004,
+   1.3500000000000005,
+   -1.4999999999999991
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2944832/freeze_rows_2944832.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2944832/red_diff_2944832.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2944832/post_freeze_2944832.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2944832/sum_delta_table_2944832.html"
+  }
+ },
+ {
+  "mid": "2944833",
+  "kickoff": "2026-10-24 15:30 (UTC+8)",
+  "kickoff_ms": 1792827000000,
+  "league": "中超",
+  "home": "河南隊",
+  "away": "北京國安",
+  "hcap": -0.25,
+  "books": 347,
+  "n8": 296,
+  "avg": [
+   2.949155405405408,
+   3.588749999999996,
+   2.1445270270270256
+  ],
+  "payout": 92.24820175912829,
+  "sum": [
+   -11.960000000000022,
+   -0.050000000000000266,
+   2.339999999999997
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2944833/freeze_rows_2944833.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2944833/red_diff_2944833.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2944833/post_freeze_2944833.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2944833/sum_delta_table_2944833.html"
+  }
+ },
+ {
+  "mid": "2944834",
+  "kickoff": "2026-10-24 15:30 (UTC+8)",
+  "kickoff_ms": 1792827000000,
+  "league": "中超",
+  "home": "深圳新鵬城",
+  "away": "上海申花",
+  "hcap": -0.5,
+  "books": 330,
+  "n8": 281,
+  "avg": [
+   3.399786476868328,
+   3.9191459074733097,
+   1.8673309608540933
+  ],
+  "payout": 92.18140703794448,
+  "sum": [
+   0.3500000000000001,
+   0.5499999999999998,
+   -0.399999999999999
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2944834/freeze_rows_2944834.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2944834/red_diff_2944834.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2944834/post_freeze_2944834.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2944834/sum_delta_table_2944834.html"
+  }
+ },
+ {
+  "mid": "2944835",
+  "kickoff": "2026-10-24 15:30 (UTC+8)",
+  "kickoff_ms": 1792827000000,
+  "league": "中超",
+  "home": "遼寧鐵人",
+  "away": "浙江俱樂部綠城",
+  "hcap": 0.25,
+  "books": 326,
+  "n8": 277,
+  "avg": [
+   2.0349097472924202,
+   4.049963898916969,
+   2.891083032490974
+  ],
+  "payout": 92.23142073258519,
+  "sum": [
+   2.7800000000000002,
+   0.19999999999999973,
+   -8.759999999999998
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2944835/freeze_rows_2944835.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2944835/red_diff_2944835.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2944835/post_freeze_2944835.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2944835/sum_delta_table_2944835.html"
+  }
+ },
+ {
+  "mid": "2944837",
+  "kickoff": "2026-10-24 15:30 (UTC+8)",
+  "kickoff_ms": 1792827000000,
+  "league": "中超",
+  "home": "青島西海岸",
+  "away": "雲南玉昆",
+  "hcap": 0.0,
+  "books": 329,
+  "n8": 249,
+  "avg": [
+   2.39020080321285,
+   3.6002008032128514,
+   2.582971887550202
+  ],
+  "payout": 92.31154517214061,
+  "sum": [
+   -0.7199999999999998,
+   0.8500000000000001,
+   0.09999999999999964
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2944837/freeze_rows_2944837.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2944837/red_diff_2944837.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2944837/post_freeze_2944837.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2944837/sum_delta_table_2944837.html"
+  }
+ },
+ {
+  "mid": "3087716",
+  "kickoff": "2026-10-24 15:30 (UTC+8)",
+  "kickoff_ms": 1792827000000,
+  "league": "中乙",
+  "home": "北京理工",
+  "away": "廈門飛鷺",
+  "hcap": 0.0,
+  "books": 190,
+  "n8": 181,
+  "avg": [
+   2.2685082872928164,
+   3.4332044198895,
+   2.653314917127072
+  ],
+  "payout": 90.1730797718327,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3087716/freeze_rows_3087716.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3087716/red_diff_3087716.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3087716/post_freeze_3087716.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3087716/sum_delta_table_3087716.html"
+  }
+ },
+ {
+  "mid": "3087157",
+  "kickoff": "2026-10-24 16:00 (UTC+8)",
+  "kickoff_ms": 1792828800000,
+  "league": "中乙",
+  "home": "貴州貴陽競技",
+  "away": "山西崇德榮海",
+  "hcap": 0.5,
+  "books": 201,
+  "n8": 186,
+  "avg": [
+   1.8476881720430136,
+   3.073172043010754,
+   4.095215053763445
+  ],
+  "payout": 90.02512828378302,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3087157/freeze_rows_3087157.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3087157/red_diff_3087157.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3087157/post_freeze_3087157.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3087157/sum_delta_table_3087157.html"
+  }
+ },
+ {
+  "mid": "3087684",
+  "kickoff": "2026-10-24 16:00 (UTC+8)",
+  "kickoff_ms": 1792828800000,
+  "league": "中乙",
+  "home": "廣州蒲公英",
+  "away": "大連英博B隊",
+  "hcap": 0.5,
+  "books": 171,
+  "n8": 162,
+  "avg": [
+   1.6867901234567915,
+   3.34469135802469,
+   4.595370370370372
+  ],
+  "payout": 90.13608812637231,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3087684/freeze_rows_3087684.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3087684/red_diff_3087684.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3087684/post_freeze_3087684.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3087684/sum_delta_table_3087684.html"
+  }
+ },
+ {
+  "mid": "3087718",
+  "kickoff": "2026-10-24 16:00 (UTC+8)",
+  "kickoff_ms": 1792828800000,
+  "league": "中乙",
+  "home": "泰安天貺",
+  "away": "成都蓉城B隊",
+  "hcap": 0.25,
+  "books": 182,
+  "n8": 146,
+  "avg": [
+   2.156232876712328,
+   3.1459589041095875,
+   3.036780821917811
+  ],
+  "payout": 90.01418796746968,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3087718/freeze_rows_3087718.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3087718/red_diff_3087718.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3087718/post_freeze_3087718.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3087718/sum_delta_table_3087718.html"
+  }
+ },
+ {
+  "mid": "3062876",
+  "kickoff": "2026-10-24 16:30 (UTC+8)",
+  "kickoff_ms": 1792830600000,
+  "league": "印尼超",
+  "home": "伊森穆朗",
+  "away": "永亞卡達",
+  "hcap": 0.0,
+  "books": 157,
+  "n8": 145,
+  "avg": [
+   2.946551724137934,
+   3.3051034482758617,
+   2.1708965517241383
+  ],
+  "payout": 90.69625801893827,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3062876/freeze_rows_3062876.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3062876/red_diff_3062876.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3062876/post_freeze_3062876.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3062876/sum_delta_table_3062876.html"
+  }
+ },
+ {
+  "mid": "3041382",
+  "kickoff": "2026-10-24 16:40 (UTC+8)",
+  "kickoff_ms": 1792831200000,
+  "league": "澳超",
+  "home": "墨爾本勝利",
+  "away": "墨爾本城",
+  "hcap": 0.0,
+  "books": 338,
+  "n8": 297,
+  "avg": [
+   2.4341750841750844,
+   3.417407407407406,
+   2.695757575757575
+  ],
+  "payout": 93.0761130017457,
+  "sum": [
+   -2.1799999999999997,
+   0.30000000000000027,
+   2.0199999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3041382/freeze_rows_3041382.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3041382/red_diff_3041382.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3041382/post_freeze_3041382.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3041382/sum_delta_table_3041382.html"
+  }
+ },
+ {
+  "mid": "3071134",
+  "kickoff": "2026-10-24 17:00 (UTC+8)",
+  "kickoff_ms": 1792832400000,
+  "league": "日足聯",
+  "home": "沖繩SV",
+  "away": "FC本田",
+  "hcap": 0.0,
+  "books": 183,
+  "n8": 167,
+  "avg": [
+   2.424491017964074,
+   3.2066467065868247,
+   2.5871856287425152
+  ],
+  "payout": 90.02274754050273,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071134/freeze_rows_3071134.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071134/red_diff_3071134.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071134/post_freeze_3071134.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071134/sum_delta_table_3071134.html"
+  }
+ },
+ {
+  "mid": "3012543",
+  "kickoff": "2026-10-24 18:00 (UTC+8)",
+  "kickoff_ms": 1792836000000,
+  "league": "烏克超",
+  "home": "利維貝雷",
+  "away": "LNZ切爾卡斯",
+  "hcap": -0.5,
+  "books": 312,
+  "n8": 235,
+  "avg": [
+   3.9077446808510605,
+   3.1332765957446793,
+   1.9174468085106382
+  ],
+  "payout": 91.1923134686738,
+  "sum": [
+   -0.75,
+   4.440892098500626e-16,
+   0.5600000000000005
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3012543/freeze_rows_3012543.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3012543/red_diff_3012543.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3012543/post_freeze_3012543.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3012543/sum_delta_table_3012543.html"
+  }
+ },
+ {
+  "mid": "3003183",
+  "kickoff": "2026-10-24 18:15 (UTC+8)",
+  "kickoff_ms": 1792836900000,
+  "league": "波蘭超",
+  "home": "皮亞斯",
+  "away": "克拉科維亞",
+  "hcap": 0.0,
+  "books": 346,
+  "n8": 215,
+  "avg": [
+   2.416837209302325,
+   3.4441860465116294,
+   2.6567906976744204
+  ],
+  "payout": 92.54955387909536,
+  "sum": [
+   -1.7599999999999998,
+   0.3999999999999999,
+   1.8400000000000016
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3003183/freeze_rows_3003183.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3003183/red_diff_3003183.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3003183/post_freeze_3003183.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3003183/sum_delta_table_3003183.html"
+  }
+ },
+ {
+  "mid": "3030196",
+  "kickoff": "2026-10-24 18:30 (UTC+8)",
+  "kickoff_ms": 1792837800000,
+  "league": "土甲",
+  "home": "班迪馬士邦",
+  "away": "厄德爾",
+  "hcap": 0.25,
+  "books": 270,
+  "n8": 202,
+  "avg": [
+   2.1988118811881177,
+   3.2712871287128698,
+   2.963762376237626
+  ],
+  "payout": 91.08379747294049,
+  "sum": [
+   0.2600000000000007,
+   0.0,
+   -0.7799999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3030196/freeze_rows_3030196.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3030196/red_diff_3030196.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3030196/post_freeze_3030196.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3030196/sum_delta_table_3030196.html"
+  }
+ },
+ {
+  "mid": "3030204",
+  "kickoff": "2026-10-24 18:30 (UTC+8)",
+  "kickoff_ms": 1792837800000,
+  "league": "土甲",
+  "home": "尤姆尼耶士邦",
+  "away": "施華斯",
+  "hcap": 0.25,
+  "books": 314,
+  "n8": 210,
+  "avg": [
+   2.1867619047619034,
+   3.224714285714286,
+   3.0070476190476203
+  ],
+  "payout": 90.91287217656334,
+  "sum": [
+   -0.40000000000000036,
+   0.0,
+   -0.09999999999999964
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3030204/freeze_rows_3030204.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3030204/red_diff_3030204.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3030204/post_freeze_3030204.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3030204/sum_delta_table_3030204.html"
+  }
+ },
+ {
+  "mid": "3019168",
+  "kickoff": "2026-10-24 19:00 (UTC+8)",
+  "kickoff_ms": 1792839600000,
+  "league": "德乙",
+  "home": "哈化柏林",
+  "away": "比勒費爾德",
+  "hcap": 0.5,
+  "books": 345,
+  "n8": 297,
+  "avg": [
+   1.7867340067340067,
+   3.851380471380474,
+   3.9376094276094293
+  ],
+  "payout": 93.17157163378036,
+  "sum": [
+   0.3600000000000003,
+   -0.6499999999999999,
+   0.3999999999999999
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3019168/freeze_rows_3019168.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3019168/red_diff_3019168.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3019168/post_freeze_3019168.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3019168/sum_delta_table_3019168.html"
+  }
+ },
+ {
+  "mid": "3085284",
+  "kickoff": "2026-10-24 19:00 (UTC+8)",
+  "kickoff_ms": 1792839600000,
+  "league": "越南聯",
+  "home": "河靜紅林",
+  "away": "FC海防",
+  "hcap": 0.25,
+  "books": 251,
+  "n8": 198,
+  "avg": [
+   2.2737878787878802,
+   2.743636363636364,
+   3.2910606060606096
+  ],
+  "payout": 90.2422854011131,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3085284/freeze_rows_3085284.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3085284/red_diff_3085284.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3085284/post_freeze_3085284.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3085284/sum_delta_table_3085284.html"
+  }
+ },
+ {
+  "mid": "3085285",
+  "kickoff": "2026-10-24 19:00 (UTC+8)",
+  "kickoff_ms": 1792839600000,
+  "league": "越南聯",
+  "home": "同奈長鮮",
+  "away": "南定",
+  "hcap": -0.5,
+  "books": 154,
+  "n8": 154,
+  "avg": [
+   4.076753246753246,
+   3.527987012987013,
+   1.732012987012988
+  ],
+  "payout": 90.40742269658432,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3085285/freeze_rows_3085285.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3085285/red_diff_3085285.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3085285/post_freeze_3085285.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3085285/sum_delta_table_3085285.html"
+  }
+ },
+ {
+  "mid": "3007182",
+  "kickoff": "2026-10-24 19:30 (UTC+8)",
+  "kickoff_ms": 1792841400000,
+  "league": "英甲",
+  "home": "盧頓",
+  "away": "李斯特城",
+  "hcap": 0.25,
+  "books": 344,
+  "n8": 217,
+  "avg": [
+   2.179999999999998,
+   3.708341013824886,
+   2.855760368663595
+  ],
+  "payout": 92.71729770197159,
+  "sum": [
+   0.060000000000001386,
+   0.30000000000000027,
+   1.3322676295501878e-15
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007182/freeze_rows_3007182.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007182/red_diff_3007182.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007182/post_freeze_3007182.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007182/sum_delta_table_3007182.html"
+  }
+ },
+ {
+  "mid": "3007740",
+  "kickoff": "2026-10-24 19:30 (UTC+8)",
+  "kickoff_ms": 1792841400000,
+  "league": "英乙",
+  "home": "諾咸頓",
+  "away": "高車士打",
+  "hcap": 0.5,
+  "books": 341,
+  "n8": 239,
+  "avg": [
+   2.0204184100418408,
+   3.195815899581587,
+   3.648577405857742
+  ],
+  "payout": 92.42694733076637,
+  "sum": [
+   0.3799999999999999,
+   -0.19999999999999973,
+   -0.09999999999999964
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007740/freeze_rows_3007740.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007740/red_diff_3007740.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007740/post_freeze_3007740.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007740/sum_delta_table_3007740.html"
+  }
+ },
+ {
+  "mid": "3007745",
+  "kickoff": "2026-10-24 19:30 (UTC+8)",
+  "kickoff_ms": 1792841400000,
+  "league": "英乙",
+  "home": "車頓咸",
+  "away": "新港",
+  "hcap": 0.0,
+  "books": 337,
+  "n8": 204,
+  "avg": [
+   2.5231372549019637,
+   3.3046568627450967,
+   2.599264705882355
+  ],
+  "payout": 92.27991310975712,
+  "sum": [
+   0.5199999999999996,
+   0.04999999999999938,
+   -0.6599999999999984
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007745/freeze_rows_3007745.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007745/red_diff_3007745.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007745/post_freeze_3007745.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007745/sum_delta_table_3007745.html"
+  }
+ },
+ {
+  "mid": "3008285",
+  "kickoff": "2026-10-24 19:30 (UTC+8)",
+  "kickoff_ms": 1792841400000,
+  "league": "英冠",
+  "home": "查爾頓",
+  "away": "諾域治",
+  "hcap": -0.25,
+  "books": 357,
+  "n8": 329,
+  "avg": [
+   3.2215501519756806,
+   3.394376899696052,
+   2.157325227963526
+  ],
+  "payout": 93.58463992321205,
+  "sum": [
+   0.3500000000000001,
+   0.44999999999999973,
+   -0.5600000000000049
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008285/freeze_rows_3008285.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008285/red_diff_3008285.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008285/post_freeze_3008285.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008285/sum_delta_table_3008285.html"
+  }
+ },
+ {
+  "mid": "3008287",
+  "kickoff": "2026-10-24 19:30 (UTC+8)",
+  "kickoff_ms": 1792841400000,
+  "league": "英冠",
+  "home": "樸茨茅夫",
+  "away": "米禾爾",
+  "hcap": 0.25,
+  "books": 353,
+  "n8": 289,
+  "avg": [
+   2.498166089965399,
+   3.281764705882348,
+   2.754913494809689
+  ],
+  "payout": 93.63334880079968,
+  "sum": [
+   0.7600000000000016,
+   -0.1499999999999999,
+   -0.9500000000000011
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008287/freeze_rows_3008287.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008287/red_diff_3008287.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008287/post_freeze_3008287.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008287/sum_delta_table_3008287.html"
+  }
+ },
+ {
+  "mid": "3008289",
+  "kickoff": "2026-10-24 19:30 (UTC+8)",
+  "kickoff_ms": 1792841400000,
+  "league": "英冠",
+  "home": "錫菲聯",
+  "away": "打比郡",
+  "hcap": 0.5,
+  "books": 354,
+  "n8": 293,
+  "avg": [
+   1.7643003412969263,
+   3.7731399317406114,
+   4.240682593856652
+  ],
+  "payout": 93.66459551817876,
+  "sum": [
+   -0.7600000000000002,
+   0.7000000000000002,
+   1.2700000000000014
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008289/freeze_rows_3008289.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008289/red_diff_3008289.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008289/post_freeze_3008289.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008289/sum_delta_table_3008289.html"
+  }
+ },
+ {
+  "mid": "2997755",
+  "kickoff": "2026-10-24 20:00 (UTC+8)",
+  "kickoff_ms": 1792843200000,
+  "league": "法乙",
+  "home": "迪安",
+  "away": "羅德茲",
+  "hcap": 0.25,
+  "books": 346,
+  "n8": 245,
+  "avg": [
+   1.9763265306122435,
+   3.7107346938775505,
+   3.2944081632653015
+  ],
+  "payout": 92.67648790879792,
+  "sum": [
+   -0.059999999999999165,
+   0.04999999999999982,
+   0.17000000000000082
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2997755/freeze_rows_2997755.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2997755/red_diff_2997755.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2997755/post_freeze_2997755.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2997755/sum_delta_table_2997755.html"
+  }
+ },
+ {
+  "mid": "3012326",
+  "kickoff": "2026-10-24 20:00 (UTC+8)",
+  "kickoff_ms": 1792843200000,
+  "league": "俄超",
+  "home": "法克爾",
+  "away": "羅迪納莫斯科",
+  "hcap": 0.25,
+  "books": 187,
+  "n8": 163,
+  "avg": [
+   2.0242331288343562,
+   3.284846625766868,
+   3.5583435582822087
+  ],
+  "payout": 92.63787376431704,
+  "sum": [
+   0.2400000000000002,
+   0.10000000000000009,
+   -0.25
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3012326/freeze_rows_3012326.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3012326/red_diff_3012326.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3012326/post_freeze_3012326.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3012326/sum_delta_table_3012326.html"
+  }
+ },
+ {
+  "mid": "3014136",
+  "kickoff": "2026-10-24 20:00 (UTC+8)",
+  "kickoff_ms": 1792843200000,
+  "league": "西乙",
+  "home": "科爾多瓦",
+  "away": "伊巴",
+  "hcap": 0.25,
+  "books": 350,
+  "n8": 316,
+  "avg": [
+   2.048196202531645,
+   3.478892405063288,
+   3.288069620253167
+  ],
+  "payout": 92.60870490752073,
+  "sum": [
+   -2.3999999999999995,
+   0.5499999999999998,
+   2.8
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3014136/freeze_rows_3014136.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3014136/red_diff_3014136.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3014136/post_freeze_3014136.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3014136/sum_delta_table_3014136.html"
+  }
+ },
+ {
+  "mid": "3062877",
+  "kickoff": "2026-10-24 20:00 (UTC+8)",
+  "kickoff_ms": 1792843200000,
+  "league": "印尼超",
+  "home": "傑帕拉",
+  "away": "爪哇聯",
+  "hcap": -0.25,
+  "books": 226,
+  "n8": 209,
+  "avg": [
+   3.4299521531100483,
+   3.378325358851674,
+   1.9392344497607656
+  ],
+  "payout": 90.64364439392901,
+  "sum": [
+   1.35,
+   0.8500000000000001,
+   -1.12
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3062877/freeze_rows_3062877.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3062877/red_diff_3062877.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3062877/post_freeze_3062877.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3062877/sum_delta_table_3062877.html"
+  }
+ },
+ {
+  "mid": "3102540",
+  "kickoff": "2026-10-24 20:00 (UTC+8)",
+  "kickoff_ms": 1792843200000,
+  "league": "亞挑聯",
+  "home": "南市臺鋼",
+  "away": "仰光聯",
+  "hcap": -0.25,
+  "books": 203,
+  "n8": 193,
+  "avg": [
+   3.3155440414507766,
+   3.2138860103626965,
+   2.031761658031089
+  ],
+  "payout": 90.50239417885149,
+  "sum": [
+   0.5499999999999998,
+   0.04999999999999982,
+   -0.3999999999999999
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3102540/freeze_rows_3102540.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3102540/red_diff_3102540.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3102540/post_freeze_3102540.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3102540/sum_delta_table_3102540.html"
+  }
+ },
+ {
+  "mid": "3003180",
+  "kickoff": "2026-10-24 20:45 (UTC+8)",
+  "kickoff_ms": 1792845900000,
+  "league": "波蘭超",
+  "home": "哥羅那",
+  "away": "GKS卡托威斯",
+  "hcap": 0.25,
+  "books": 347,
+  "n8": 163,
+  "avg": [
+   2.115398773006136,
+   3.5665030674846614,
+   3.078957055214721
+  ],
+  "payout": 92.77331976901425,
+  "sum": [
+   0.120000000000001,
+   0.050000000000000266,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3003180/freeze_rows_3003180.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3003180/red_diff_3003180.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3003180/post_freeze_3003180.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3003180/sum_delta_table_3003180.html"
+  }
+ },
+ {
+  "mid": "3104246",
+  "kickoff": "2026-10-24 20:55 (UTC+8)",
+  "kickoff_ms": 1792846500000,
+  "league": "烏拉甲",
+  "home": "西班牙中心",
+  "away": "阿爾比恩",
+  "hcap": 0.0,
+  "books": 336,
+  "n8": 141,
+  "avg": [
+   2.7560992907801407,
+   3.10482269503546,
+   2.5028368794326243
+  ],
+  "payout": 92.21197674616523,
+  "sum": [
+   0.0,
+   -0.04999999999999982,
+   0.040000000000000036
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3104246/freeze_rows_3104246.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3104246/red_diff_3104246.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3104246/post_freeze_3104246.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3104246/sum_delta_table_3104246.html"
+  }
+ },
+ {
+  "mid": "2993826",
+  "kickoff": "2026-10-24 21:00 (UTC+8)",
+  "kickoff_ms": 1792846800000,
+  "league": "意甲",
+  "home": "卡利亞里",
+  "away": "博洛尼亞",
+  "hcap": -0.25,
+  "books": 357,
+  "n8": 332,
+  "avg": [
+   2.9141265060240986,
+   2.984457831325302,
+   2.6388253012048195
+  ],
+  "payout": 94.59111581580225,
+  "sum": [
+   -5.689999999999998,
+   -3.5200000000000005,
+   2.26
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2993826/freeze_rows_2993826.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2993826/red_diff_2993826.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2993826/post_freeze_2993826.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2993826/sum_delta_table_2993826.html"
+  }
+ },
+ {
+  "mid": "3026764",
+  "kickoff": "2026-10-24 21:00 (UTC+8)",
+  "kickoff_ms": 1792846800000,
+  "league": "土超",
+  "home": "加辛塔",
+  "away": "艾蘇林",
+  "hcap": 0.25,
+  "books": 309,
+  "n8": 256,
+  "avg": [
+   2.298007812499999,
+   3.225195312499999,
+   3.0446093750000003
+  ],
+  "payout": 93.13869307619885,
+  "sum": [
+   0.3800000000000008,
+   0.09999999999999964,
+   -1.370000000000001
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3026764/freeze_rows_3026764.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3026764/red_diff_3026764.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3026764/post_freeze_3026764.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3026764/sum_delta_table_3026764.html"
+  }
+ },
+ {
+  "mid": "3030201",
+  "kickoff": "2026-10-24 21:00 (UTC+8)",
+  "kickoff_ms": 1792846800000,
+  "league": "土甲",
+  "home": "慕拉斯堡",
+  "away": "伊斯坦堡士邦",
+  "hcap": 0.5,
+  "books": 289,
+  "n8": 241,
+  "avg": [
+   1.8973443983402505,
+   3.397925311203321,
+   3.6359751037344403
+  ],
+  "payout": 91.20933073927195,
+  "sum": [
+   0.40000000000000036,
+   -0.2999999999999998,
+   -0.04999999999999982
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3030201/freeze_rows_3030201.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3030201/red_diff_3030201.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3030201/post_freeze_3030201.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3030201/sum_delta_table_3030201.html"
+  }
+ },
+ {
+  "mid": "3040776",
+  "kickoff": "2026-10-24 21:00 (UTC+8)",
+  "kickoff_ms": 1792846800000,
+  "league": "意乙",
+  "home": "艾維連奴",
+  "away": "帕多瓦",
+  "hcap": 0.25,
+  "books": 349,
+  "n8": 296,
+  "avg": [
+   2.1372972972972963,
+   3.1402027027027035,
+   3.4506418918918955
+  ],
+  "payout": 92.9253548006403,
+  "sum": [
+   -0.6600000000000001,
+   -0.30000000000000027,
+   1.0000000000000004
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3040776/freeze_rows_3040776.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3040776/red_diff_3040776.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3040776/post_freeze_3040776.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3040776/sum_delta_table_3040776.html"
+  }
+ },
+ {
+  "mid": "3040778",
+  "kickoff": "2026-10-24 21:00 (UTC+8)",
+  "kickoff_ms": 1792846800000,
+  "league": "意乙",
+  "home": "克雷莫納",
+  "away": "斯塔比亞",
+  "hcap": 0.5,
+  "books": 351,
+  "n8": 321,
+  "avg": [
+   1.8854828660436158,
+   3.3991900311526475,
+   3.964704049844243
+  ],
+  "payout": 92.86935319145968,
+  "sum": [
+   1.9599999999999995,
+   -0.5999999999999996,
+   -3.15
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3040778/freeze_rows_3040778.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3040778/red_diff_3040778.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3040778/post_freeze_3040778.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3040778/sum_delta_table_3040778.html"
+  }
+ },
+ {
+  "mid": "3040780",
+  "kickoff": "2026-10-24 21:00 (UTC+8)",
+  "kickoff_ms": 1792846800000,
+  "league": "意乙",
+  "home": "恩特拉",
+  "away": "曼托瓦",
+  "hcap": 0.25,
+  "books": 349,
+  "n8": 268,
+  "avg": [
+   2.311492537313432,
+   3.0637313432835858,
+   3.146268656716416
+  ],
+  "payout": 92.86283233977764,
+  "sum": [
+   0.8399999999999981,
+   0.10000000000000009,
+   -1.5
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3040780/freeze_rows_3040780.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3040780/red_diff_3040780.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3040780/post_freeze_3040780.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3040780/sum_delta_table_3040780.html"
+  }
+ },
+ {
+  "mid": "3040783",
+  "kickoff": "2026-10-24 21:00 (UTC+8)",
+  "kickoff_ms": 1792846800000,
+  "league": "意乙",
+  "home": "蘇迪路",
+  "away": "森多利亞",
+  "hcap": 0.0,
+  "books": 340,
+  "n8": 288,
+  "avg": [
+   2.8634375000000016,
+   2.947048611111113,
+   2.580486111111112
+  ],
+  "payout": 92.93015118585659,
+  "sum": [
+   -0.3499999999999992,
+   -1.8200000000000003,
+   0.96
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3040783/freeze_rows_3040783.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3040783/red_diff_3040783.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3040783/post_freeze_3040783.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3040783/sum_delta_table_3040783.html"
+  }
+ },
+ {
+  "mid": "3018840",
+  "kickoff": "2026-10-24 21:30 (UTC+8)",
+  "kickoff_ms": 1792848600000,
+  "league": "德甲",
+  "home": "奧格斯堡",
+  "away": "柏林聯",
+  "hcap": 0.5,
+  "books": 363,
+  "n8": 334,
+  "avg": [
+   1.7917664670658653,
+   4.019011976047906,
+   3.9680838323353314
+  ],
+  "payout": 94.4343577536343,
+  "sum": [
+   -1.2600000000000011,
+   0.9000000000000008,
+   2.38
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3018840/freeze_rows_3018840.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3018840/red_diff_3018840.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3018840/post_freeze_3018840.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3018840/sum_delta_table_3018840.html"
+  }
+ },
+ {
+  "mid": "3018842",
+  "kickoff": "2026-10-24 21:30 (UTC+8)",
+  "kickoff_ms": 1792848600000,
+  "league": "德甲",
+  "home": "科隆",
+  "away": "史浩克零四",
+  "hcap": 0.5,
+  "books": 359,
+  "n8": 319,
+  "avg": [
+   2.0650783699059563,
+   3.641222570532918,
+   3.3331661442006246
+  ],
+  "payout": 94.43840836453815,
+  "sum": [
+   0.9800000000000013,
+   -0.6999999999999997,
+   -0.2999999999999998
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3018842/freeze_rows_3018842.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3018842/red_diff_3018842.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3018842/post_freeze_3018842.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3018842/sum_delta_table_3018842.html"
+  }
+ },
+ {
+  "mid": "3018846",
+  "kickoff": "2026-10-24 21:30 (UTC+8)",
+  "kickoff_ms": 1792848600000,
+  "league": "德甲",
+  "home": "柏德博恩",
+  "away": "漢堡",
+  "hcap": 0.25,
+  "books": 356,
+  "n8": 328,
+  "avg": [
+   2.3198170731707326,
+   3.5747256097560975,
+   2.8786280487804854
+  ],
+  "payout": 94.50027934514473,
+  "sum": [
+   -0.6000000000000005,
+   -0.20000000000000018,
+   -1.8900000000000015
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3018846/freeze_rows_3018846.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3018846/red_diff_3018846.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3018846/post_freeze_3018846.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3018846/sum_delta_table_3018846.html"
+  }
+ },
+ {
+  "mid": "3002088",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "蘇超",
+  "home": "登地聯",
+  "away": "鴨巴甸",
+  "hcap": 0.25,
+  "books": 352,
+  "n8": 282,
+  "avg": [
+   2.0451063829787244,
+   3.516489361702128,
+   3.3047163120567355
+  ],
+  "payout": 92.94159861449846,
+  "sum": [
+   -1.2600000000000002,
+   0.5499999999999998,
+   1.3499999999999992
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3002088/freeze_rows_3002088.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3002088/red_diff_3002088.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3002088/post_freeze_3002088.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3002088/sum_delta_table_3002088.html"
+  }
+ },
+ {
+  "mid": "3002089",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "蘇超",
+  "home": "福克爾克",
+  "away": "基馬諾克",
+  "hcap": 0.5,
+  "books": 352,
+  "n8": 172,
+  "avg": [
+   1.8390697674418617,
+   3.7328488372093034,
+   3.79901162790698
+  ],
+  "payout": 93.03438277367731,
+  "sum": [
+   0.4799999999999991,
+   0.19999999999999973,
+   -0.8499999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3002089/freeze_rows_3002089.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3002089/red_diff_3002089.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3002089/post_freeze_3002089.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3002089/sum_delta_table_3002089.html"
+  }
+ },
+ {
+  "mid": "3002093",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "蘇超",
+  "home": "聖美倫",
+  "away": "登地",
+  "hcap": 0.25,
+  "books": 355,
+  "n8": 205,
+  "avg": [
+   2.2035609756097574,
+   3.5614634146341486,
+   2.9505853658536556
+  ],
+  "payout": 93.15235552009341,
+  "sum": [
+   0.35999999999999943,
+   -0.2999999999999998,
+   -0.4500000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3002093/freeze_rows_3002093.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3002093/red_diff_3002093.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3002093/post_freeze_3002093.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3002093/sum_delta_table_3002093.html"
+  }
+ },
+ {
+  "mid": "3003922",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英超",
+  "home": "高雲地利",
+  "away": "富咸",
+  "hcap": -0.25,
+  "books": 351,
+  "n8": 257,
+  "avg": [
+   3.099610894941635,
+   3.4498054474708173,
+   2.253346303501942
+  ],
+  "payout": 94.67213739463334,
+  "sum": [
+   1.3499999999999996,
+   0.050000000000000266,
+   -1.379999999999999
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3003922/freeze_rows_3003922.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3003922/red_diff_3003922.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3003922/post_freeze_3003922.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3003922/sum_delta_table_3003922.html"
+  }
+ },
+ {
+  "mid": "3007176",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英甲",
+  "home": "黑池",
+  "away": "曼斯菲特",
+  "hcap": 0.0,
+  "books": 341,
+  "n8": 219,
+  "avg": [
+   2.665616438356166,
+   3.4595433789954346,
+   2.415114155251141
+  ],
+  "payout": 92.74180924134737,
+  "sum": [
+   0.2599999999999989,
+   0.050000000000000266,
+   0.2600000000000007
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007176/freeze_rows_3007176.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007176/red_diff_3007176.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007176/post_freeze_3007176.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007176/sum_delta_table_3007176.html"
+  }
+ },
+ {
+  "mid": "3007177",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英甲",
+  "home": "布羅姆利",
+  "away": "彼德堡",
+  "hcap": -0.25,
+  "books": 343,
+  "n8": 311,
+  "avg": [
+   3.2482958199356964,
+   3.858585209003213,
+   1.9487781350482325
+  ],
+  "payout": 92.57903761372476,
+  "sum": [
+   3.3499999999999996,
+   0.5499999999999994,
+   -2.5599999999999965
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007177/freeze_rows_3007177.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007177/red_diff_3007177.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007177/post_freeze_3007177.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007177/sum_delta_table_3007177.html"
+  }
+ },
+ {
+  "mid": "3007178",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英甲",
+  "home": "伯頓",
+  "away": "奧連特",
+  "hcap": 0.0,
+  "books": 341,
+  "n8": 306,
+  "avg": [
+   2.5598039215686264,
+   3.3029738562091526,
+   2.5821241830065356
+  ],
+  "payout": 92.53343700623965,
+  "sum": [
+   2.3,
+   0.5999999999999992,
+   -2.2199999999999998
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007178/freeze_rows_3007178.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007178/red_diff_3007178.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007178/post_freeze_3007178.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007178/sum_delta_table_3007178.html"
+  }
+ },
+ {
+  "mid": "3007179",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英甲",
+  "home": "劍橋聯",
+  "away": "普利茅夫",
+  "hcap": 0.0,
+  "books": 339,
+  "n8": 271,
+  "avg": [
+   2.338634686346863,
+   3.4904059040590427,
+   2.734870848708488
+  ],
+  "payout": 92.61424310784264,
+  "sum": [
+   -0.8399999999999954,
+   -0.44999999999999973,
+   2.1599999999999975
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007179/freeze_rows_3007179.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007179/red_diff_3007179.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007179/post_freeze_3007179.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007179/sum_delta_table_3007179.html"
+  }
+ },
+ {
+  "mid": "3007180",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英甲",
+  "home": "唐卡士打",
+  "away": "錫周三",
+  "hcap": 0.0,
+  "books": 345,
+  "n8": 277,
+  "avg": [
+   2.597472924187727,
+   3.55996389891697,
+   2.4209747292418764
+  ],
+  "payout": 92.68286654009387,
+  "sum": [
+   -1.0600000000000005,
+   0.10000000000000009,
+   0.7800000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007180/freeze_rows_3007180.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007180/red_diff_3007180.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007180/post_freeze_3007180.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007180/sum_delta_table_3007180.html"
+  }
+ },
+ {
+  "mid": "3007184",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英甲",
+  "home": "牛津聯",
+  "away": "巴拉福特",
+  "hcap": 0.0,
+  "books": 343,
+  "n8": 292,
+  "avg": [
+   2.553321917808221,
+   3.303698630136982,
+   2.597739726027402
+  ],
+  "payout": 92.65369744817231,
+  "sum": [
+   -3.400000000000002,
+   0.8499999999999996,
+   3.0000000000000004
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007184/freeze_rows_3007184.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007184/red_diff_3007184.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007184/post_freeze_3007184.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007184/sum_delta_table_3007184.html"
+  }
+ },
+ {
+  "mid": "3007186",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英甲",
+  "home": "史提芬納治",
+  "away": "米爾頓凱恩斯",
+  "hcap": 0.5,
+  "books": 289,
+  "n8": 223,
+  "avg": [
+   1.9654708520179385,
+   3.314618834080717,
+   3.7208520179372226
+  ],
+  "payout": 92.65836271378474,
+  "sum": [
+   0.3399999999999994,
+   0.2999999999999998,
+   -0.4500000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3007186/freeze_rows_3007186.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3007186/red_diff_3007186.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3007186/post_freeze_3007186.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3007186/sum_delta_table_3007186.html"
+  }
+ },
+ {
+  "mid": "3008286",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英冠",
+  "home": "林肯城",
+  "away": "般尼",
+  "hcap": -0.25,
+  "books": 356,
+  "n8": 277,
+  "avg": [
+   2.7381588447653398,
+   3.389855595667869,
+   2.445379061371842
+  ],
+  "payout": 93.53300810512755,
+  "sum": [
+   -2.8500000000000005,
+   -0.050000000000000266,
+   1.4600000000000009
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008286/freeze_rows_3008286.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008286/red_diff_3008286.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008286/post_freeze_3008286.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008286/sum_delta_table_3008286.html"
+  }
+ },
+ {
+  "mid": "3008288",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英冠",
+  "home": "普雷斯頓",
+  "away": "西布朗",
+  "hcap": -0.5,
+  "books": 355,
+  "n8": 312,
+  "avg": [
+   3.6128525641025604,
+   3.491185897435895,
+   1.9797115384615414
+  ],
+  "payout": 93.60234419331327,
+  "sum": [
+   1.799999999999999,
+   0.3000000000000007,
+   -0.7399999999999989
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008288/freeze_rows_3008288.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008288/red_diff_3008288.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008288/post_freeze_3008288.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008288/sum_delta_table_3008288.html"
+  }
+ },
+ {
+  "mid": "3008290",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英冠",
+  "home": "史篤城",
+  "away": "布里斯托城",
+  "hcap": 0.25,
+  "books": 343,
+  "n8": 319,
+  "avg": [
+   2.436489028213166,
+   3.256175548589341,
+   2.8480250783699055
+  ],
+  "payout": 93.5754912926647,
+  "sum": [
+   0.33999999999999986,
+   -0.5,
+   -2.620000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008290/freeze_rows_3008290.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008290/red_diff_3008290.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008290/post_freeze_3008290.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008290/sum_delta_table_3008290.html"
+  }
+ },
+ {
+  "mid": "3008293",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英冠",
+  "home": "布力般流浪",
+  "away": "域斯咸",
+  "hcap": 0.0,
+  "books": 351,
+  "n8": 328,
+  "avg": [
+   2.8100914634146306,
+   3.1939634146341467,
+   2.4985060975609787
+  ],
+  "payout": 93.52873775837891,
+  "sum": [
+   1.799999999999998,
+   0.34999999999999964,
+   -2.3200000000000003
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008293/freeze_rows_3008293.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008293/red_diff_3008293.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008293/post_freeze_3008293.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008293/sum_delta_table_3008293.html"
+  }
+ },
+ {
+  "mid": "3008294",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英冠",
+  "home": "卡迪夫城",
+  "away": "伯明翰",
+  "hcap": 0.0,
+  "books": 355,
+  "n8": 299,
+  "avg": [
+   2.589966555183947,
+   3.711939799331104,
+   2.4188294314381285
+  ],
+  "payout": 93.55154719033897,
+  "sum": [
+   -1.0000000000000009,
+   0.4500000000000002,
+   0.5
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008294/freeze_rows_3008294.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008294/red_diff_3008294.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008294/post_freeze_3008294.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008294/sum_delta_table_3008294.html"
+  }
+ },
+ {
+  "mid": "3008295",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "英冠",
+  "home": "昆士柏流浪",
+  "away": "史雲斯",
+  "hcap": 0.0,
+  "books": 330,
+  "n8": 265,
+  "avg": [
+   2.3875094339622667,
+   3.354528301886789,
+   2.8455471698113186
+  ],
+  "payout": 93.59989402660244,
+  "sum": [
+   -0.660000000000001,
+   0.04999999999999982,
+   0.3600000000000003
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3008295/freeze_rows_3008295.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3008295/red_diff_3008295.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3008295/post_freeze_3008295.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3008295/sum_delta_table_3008295.html"
+  }
+ },
+ {
+  "mid": "3085220",
+  "kickoff": "2026-10-24 22:00 (UTC+8)",
+  "kickoff_ms": 1792850400000,
+  "league": "芬超",
+  "home": "吉尼斯坦",
+  "away": "奧盧",
+  "hcap": 0.25,
+  "books": 356,
+  "n8": 331,
+  "avg": [
+   1.870996978851964,
+   3.616072507552871,
+   3.6218429003021146
+  ],
+  "payout": 91.98615959027754,
+  "sum": [
+   -1.7999999999999998,
+   1.9,
+   0.8499999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3085220/freeze_rows_3085220.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3085220/red_diff_3085220.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3085220/post_freeze_3085220.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3085220/sum_delta_table_3085220.html"
+  }
+ },
+ {
+  "mid": "3012329",
+  "kickoff": "2026-10-24 22:15 (UTC+8)",
+  "kickoff_ms": 1792851300000,
+  "league": "俄超",
+  "home": "卡山魯賓",
+  "away": "蘇維杜夫",
+  "hcap": 0.25,
+  "books": 174,
+  "n8": 125,
+  "avg": [
+   2.2661599999999984,
+   3.170960000000001,
+   3.088800000000001
+  ],
+  "payout": 92.5593961967587,
+  "sum": [
+   0.23999999999999932,
+   -0.09999999999999964,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3012329/freeze_rows_3012329.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3012329/red_diff_3012329.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3012329/post_freeze_3012329.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3012329/sum_delta_table_3012329.html"
+  }
+ },
+ {
+  "mid": "3013737",
+  "kickoff": "2026-10-24 22:15 (UTC+8)",
+  "kickoff_ms": 1792851300000,
+  "league": "西甲",
+  "home": "桑坦德",
+  "away": "愛斯賓奴",
+  "hcap": 0.0,
+  "books": 350,
+  "n8": 312,
+  "avg": [
+   2.294166666666666,
+   3.591089743589746,
+   2.9197115384615366
+  ],
+  "payout": 94.62038508308218,
+  "sum": [
+   -0.9799999999999995,
+   0.30000000000000027,
+   0.5200000000000018
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3013737/freeze_rows_3013737.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3013737/red_diff_3013737.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3013737/post_freeze_3013737.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3013737/sum_delta_table_3013737.html"
+  }
+ },
+ {
+  "mid": "3014139",
+  "kickoff": "2026-10-24 22:15 (UTC+8)",
+  "kickoff_ms": 1792851300000,
+  "league": "西乙",
+  "home": "雷加利斯",
+  "away": "馬略卡",
+  "hcap": -0.25,
+  "books": 348,
+  "n8": 316,
+  "avg": [
+   3.3448734177215242,
+   3.115791139240509,
+   2.1754113924050635
+  ],
+  "payout": 92.62742069065123,
+  "sum": [
+   4.4799999999999995,
+   0.6500000000000004,
+   -3.5599999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3014139/freeze_rows_3014139.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3014139/red_diff_3014139.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3014139/post_freeze_3014139.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3014139/sum_delta_table_3014139.html"
+  }
+ },
+ {
+  "mid": "2996523",
+  "kickoff": "2026-10-24 22:30 (UTC+8)",
+  "kickoff_ms": 1792852200000,
+  "league": "荷乙",
+  "home": "多德勒支",
+  "away": "芬洛",
+  "hcap": -0.25,
+  "books": 331,
+  "n8": 310,
+  "avg": [
+   2.4678709677419346,
+   3.623903225806451,
+   2.4385483870967786
+  ],
+  "payout": 91.63944384671991,
+  "sum": [
+   -4.449999999999999,
+   -0.4500000000000002,
+   3.4799999999999995
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2996523/freeze_rows_2996523.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2996523/red_diff_2996523.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2996523/post_freeze_2996523.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2996523/sum_delta_table_2996523.html"
+  }
+ },
+ {
+  "mid": "3037819",
+  "kickoff": "2026-10-24 22:30 (UTC+8)",
+  "kickoff_ms": 1792852200000,
+  "league": "卡塔爾聯",
+  "home": "華卡拉",
+  "away": "多哈艾阿拉比",
+  "hcap": -0.25,
+  "books": 283,
+  "n8": 262,
+  "avg": [
+   2.69416030534351,
+   3.6501908396946607,
+   2.174694656488553
+  ],
+  "payout": 90.50051308036277,
+  "sum": [
+   0.0900000000000003,
+   0.4500000000000002,
+   -0.16000000000000014
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3037819/freeze_rows_3037819.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3037819/red_diff_3037819.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3037819/post_freeze_3037819.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3037819/sum_delta_table_3037819.html"
+  }
+ },
+ {
+  "mid": "2914727",
+  "kickoff": "2026-10-24 23:00 (UTC+8)",
+  "kickoff_ms": 1792854000000,
+  "league": "瑞典甲",
+  "home": "IK布拉格",
+  "away": "奧斯達",
+  "hcap": 0.25,
+  "books": 329,
+  "n8": 301,
+  "avg": [
+   1.9527242524916935,
+   3.699568106312293,
+   3.229867109634545
+  ],
+  "payout": 91.5736526820738,
+  "sum": [
+   -1.1000000000000005,
+   0.25000000000000044,
+   1.1500000000000004
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2914727/freeze_rows_2914727.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2914727/red_diff_2914727.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2914727/post_freeze_2914727.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2914727/sum_delta_table_2914727.html"
+  }
+ },
+ {
+  "mid": "3010655",
+  "kickoff": "2026-10-24 23:00 (UTC+8)",
+  "kickoff_ms": 1792854000000,
+  "league": "奧甲",
+  "home": "哈特堡格",
+  "away": "禾夫斯貝加",
+  "hcap": 0.25,
+  "books": 340,
+  "n8": 318,
+  "avg": [
+   1.9148742138364772,
+   3.670377358490564,
+   3.52364779874214
+  ],
+  "payout": 92.7234466378181,
+  "sum": [
+   0.13999999999999968,
+   0.5499999999999998,
+   -0.6900000000000004
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3010655/freeze_rows_3010655.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3010655/red_diff_3010655.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3010655/post_freeze_3010655.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3010655/sum_delta_table_3010655.html"
+  }
+ },
+ {
+  "mid": "3010659",
+  "kickoff": "2026-10-24 23:00 (UTC+8)",
+  "kickoff_ms": 1792854000000,
+  "league": "奧甲",
+  "home": "WSG蒂羅爾",
+  "away": "格拉茨AK",
+  "hcap": 0.0,
+  "books": 346,
+  "n8": 327,
+  "avg": [
+   2.2770336391437302,
+   3.3683180428134567,
+   2.923669724770642
+  ],
+  "payout": 92.75682014898095,
+  "sum": [
+   -3.459999999999999,
+   0.44999999999999973,
+   3.399999999999998
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3010659/freeze_rows_3010659.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3010659/red_diff_3010659.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3010659/post_freeze_3010659.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3010659/sum_delta_table_3010659.html"
+  }
+ },
+ {
+  "mid": "3047026",
+  "kickoff": "2026-10-24 23:05 (UTC+8)",
+  "kickoff_ms": 1792854300000,
+  "league": "沙地聯",
+  "home": "艾科路德",
+  "away": "伊蒂法克",
+  "hcap": 0.0,
+  "books": 334,
+  "n8": 311,
+  "avg": [
+   2.429324758842445,
+   3.49797427652733,
+   2.5739549839228313
+  ],
+  "payout": 92.07900083126687,
+  "sum": [
+   -1.700000000000001,
+   0.04999999999999982,
+   1.7800000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3047026/freeze_rows_3047026.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3047026/red_diff_3047026.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3047026/post_freeze_3047026.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3047026/sum_delta_table_3047026.html"
+  }
+ },
+ {
+  "mid": "3040777",
+  "kickoff": "2026-10-24 23:15 (UTC+8)",
+  "kickoff_ms": 1792854900000,
+  "league": "意乙",
+  "home": "卡坦薩羅",
+  "away": "阿斯科利",
+  "hcap": 0.0,
+  "books": 351,
+  "n8": 320,
+  "avg": [
+   2.517,
+   3.2703125000000015,
+   2.6858437499999974
+  ],
+  "payout": 92.98848035150307,
+  "sum": [
+   -0.40000000000000036,
+   0.34999999999999964,
+   0.08000000000000007
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3040777/freeze_rows_3040777.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3040777/red_diff_3040777.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3040777/post_freeze_3040777.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3040777/sum_delta_table_3040777.html"
+  }
+ },
+ {
+  "mid": "2912303",
+  "kickoff": "2026-10-24 23:30 (UTC+8)",
+  "kickoff_ms": 1792855800000,
+  "league": "瑞典超",
+  "home": "卡馬亞",
+  "away": "龐馬普卡納",
+  "hcap": 0.5,
+  "books": 359,
+  "n8": 326,
+  "avg": [
+   1.7630061349693242,
+   3.73432515337423,
+   4.127914110429453
+  ],
+  "payout": 92.82878130159769,
+  "sum": [
+   -1.3800000000000012,
+   0.5499999999999998,
+   2.8000000000000003
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2912303/freeze_rows_2912303.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2912303/red_diff_2912303.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2912303/post_freeze_2912303.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2912303/sum_delta_table_2912303.html"
+  }
+ },
+ {
+  "mid": "2921259",
+  "kickoff": "2026-10-24 23:30 (UTC+8)",
+  "kickoff_ms": 1792855800000,
+  "league": "智利甲",
+  "home": "塞雷那",
+  "away": "迪康塞普森",
+  "hcap": 0.0,
+  "books": 348,
+  "n8": 141,
+  "avg": [
+   2.2896453900709237,
+   3.278014184397163,
+   2.8793617021276594
+  ],
+  "payout": 91.81802323987034,
+  "sum": [
+   0.4599999999999982,
+   -0.19999999999999973,
+   -0.21999999999999975
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2921259/freeze_rows_2921259.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2921259/red_diff_2921259.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2921259/post_freeze_2921259.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2921259/sum_delta_table_2921259.html"
+  }
+ },
+ {
+  "mid": "2993832",
+  "kickoff": "2026-10-25 00:00 (UTC+8)",
+  "kickoff_ms": 1792857600000,
+  "league": "意甲",
+  "home": "拿玻里",
+  "away": "羅馬",
+  "hcap": 0.0,
+  "books": 359,
+  "n8": 310,
+  "avg": [
+   2.632838709677418,
+   3.299064516129031,
+   2.6607741935483875
+  ],
+  "payout": 94.4496768430712,
+  "sum": [
+   -1.459999999999999,
+   -0.3500000000000001,
+   1.7800000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2993832/freeze_rows_2993832.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2993832/red_diff_2993832.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2993832/post_freeze_2993832.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2993832/sum_delta_table_2993832.html"
+  }
+ },
+ {
+  "mid": "3000834",
+  "kickoff": "2026-10-25 00:00 (UTC+8)",
+  "kickoff_ms": 1792857600000,
+  "league": "瑞士超",
+  "home": "塞維特",
+  "away": "華杜茲",
+  "hcap": 0.5,
+  "books": 355,
+  "n8": 319,
+  "avg": [
+   2.0129467084639514,
+   3.758244514106582,
+   3.1660188087774292
+  ],
+  "payout": 92.70246993362319,
+  "sum": [
+   1.5999999999999988,
+   -1.0999999999999992,
+   -1.7500000000000004
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000834/freeze_rows_3000834.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000834/red_diff_3000834.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000834/post_freeze_3000834.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000834/sum_delta_table_3000834.html"
+  }
+ },
+ {
+  "mid": "3000838",
+  "kickoff": "2026-10-25 00:00 (UTC+8)",
+  "kickoff_ms": 1792857600000,
+  "league": "瑞士超",
+  "home": "蘇黎世",
+  "away": "琉森",
+  "hcap": 0.0,
+  "books": 354,
+  "n8": 279,
+  "avg": [
+   2.5905376344086046,
+   3.6913978494623683,
+   2.368494623655913
+  ],
+  "payout": 92.66728842652489,
+  "sum": [
+   1.0999999999999996,
+   -0.10000000000000009,
+   -0.7200000000000006
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000838/freeze_rows_3000838.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000838/red_diff_3000838.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000838/post_freeze_3000838.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000838/sum_delta_table_3000838.html"
+  }
+ },
+ {
+  "mid": "3026768",
+  "kickoff": "2026-10-25 00:00 (UTC+8)",
+  "kickoff_ms": 1792857600000,
+  "league": "土超",
+  "home": "薩姆士邦",
+  "away": "阿美德",
+  "hcap": -0.25,
+  "books": 317,
+  "n8": 189,
+  "avg": [
+   2.9897883597883594,
+   3.4397354497354486,
+   2.2302116402116403
+  ],
+  "payout": 93.14631240856791,
+  "sum": [
+   -1.5499999999999998,
+   -0.3500000000000001,
+   1.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3026768/freeze_rows_3026768.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3026768/red_diff_3026768.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3026768/post_freeze_3026768.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3026768/sum_delta_table_3026768.html"
+  }
+ },
+ {
+  "mid": "3030203",
+  "kickoff": "2026-10-25 00:00 (UTC+8)",
+  "kickoff_ms": 1792857600000,
+  "league": "土甲",
+  "home": "沙里耶爾",
+  "away": "卡拉古拉克",
+  "hcap": 0.0,
+  "books": 310,
+  "n8": 251,
+  "avg": [
+   2.3478884462151406,
+   3.1799601593625546,
+   2.8221912350597638
+  ],
+  "payout": 91.34767924909902,
+  "sum": [
+   -2.339999999999999,
+   0.5000000000000004,
+   1.5999999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3030203/freeze_rows_3030203.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3030203/red_diff_3030203.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3030203/post_freeze_3030203.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3030203/sum_delta_table_3030203.html"
+  }
+ },
+ {
+  "mid": "3036457",
+  "kickoff": "2026-10-25 00:00 (UTC+8)",
+  "kickoff_ms": 1792857600000,
+  "league": "希臘超",
+  "home": "伊拿克里斯",
+  "away": "基菲薩",
+  "hcap": 0.0,
+  "books": 301,
+  "n8": 223,
+  "avg": [
+   2.526233183856503,
+   3.048699551569507,
+   2.7869955156950663
+  ],
+  "payout": 92.36473250294621,
+  "sum": [
+   -1.0599999999999996,
+   -0.6000000000000005,
+   1.709999999999999
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3036457/freeze_rows_3036457.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3036457/red_diff_3036457.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3036457/post_freeze_3036457.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3036457/sum_delta_table_3036457.html"
+  }
+ },
+ {
+  "mid": "3103554",
+  "kickoff": "2026-10-25 00:00 (UTC+8)",
+  "kickoff_ms": 1792857600000,
+  "league": "阿聯盃",
+  "home": "哈塔",
+  "away": "迪拜聯",
+  "hcap": -0.5,
+  "books": 30,
+  "n8": 30,
+  "avg": [
+   3.273000000000001,
+   3.4819999999999984,
+   1.954
+  ],
+  "payout": 90.53935363745828,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3103554/freeze_rows_3103554.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3103554/red_diff_3103554.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3103554/post_freeze_3103554.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3103554/sum_delta_table_3103554.html"
+  }
+ },
+ {
+  "mid": "3003597",
+  "kickoff": "2026-10-25 00:15 (UTC+8)",
+  "kickoff_ms": 1792858500000,
+  "league": "比甲",
+  "home": "奧特希費利",
+  "away": "隆姆",
+  "hcap": 0.5,
+  "books": 364,
+  "n8": 257,
+  "avg": [
+   1.8704669260700424,
+   3.689961089494168,
+   3.726692607003886
+  ],
+  "payout": 93.1128276958797,
+  "sum": [
+   -0.33999999999999897,
+   -0.10000000000000009,
+   0.8000000000000003
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3003597/freeze_rows_3003597.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3003597/red_diff_3003597.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3003597/post_freeze_3003597.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3003597/sum_delta_table_3003597.html"
+  }
+ },
+ {
+  "mid": "3057213",
+  "kickoff": "2026-10-25 00:15 (UTC+8)",
+  "kickoff_ms": 1792858500000,
+  "league": "西女超",
+  "home": "洛格羅尼奧女足",
+  "away": "利雲特拉斯帕納斯女足",
+  "hcap": 0.0,
+  "books": 234,
+  "n8": 57,
+  "avg": [
+   2.420701754385965,
+   3.1921052631578943,
+   2.611929824561404
+  ],
+  "payout": 90.1522298612866,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3057213/freeze_rows_3057213.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3057213/red_diff_3057213.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3057213/post_freeze_3057213.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3057213/sum_delta_table_3057213.html"
+  }
+ },
+ {
+  "mid": "3013741",
+  "kickoff": "2026-10-25 00:30 (UTC+8)",
+  "kickoff_ms": 1792859400000,
+  "league": "西甲",
+  "home": "華倫西亞",
+  "away": "維拉利爾",
+  "hcap": -0.25,
+  "books": 362,
+  "n8": 297,
+  "avg": [
+   3.3819191919191933,
+   3.5746464646464635,
+   2.075521885521887
+  ],
+  "payout": 94.5854942143493,
+  "sum": [
+   0.9500000000000002,
+   -0.5000000000000004,
+   -0.17999999999999794
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3013741/freeze_rows_3013741.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3013741/red_diff_3013741.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3013741/post_freeze_3013741.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3013741/sum_delta_table_3013741.html"
+  }
+ },
+ {
+  "mid": "3014140",
+  "kickoff": "2026-10-25 00:30 (UTC+8)",
+  "kickoff_ms": 1792859400000,
+  "league": "西乙",
+  "home": "拉斯彭馬斯",
+  "away": "皇家蘇斯達B隊",
+  "hcap": 0.5,
+  "books": 343,
+  "n8": 310,
+  "avg": [
+   2.121032258064515,
+   3.4112258064516143,
+   3.171225806451613
+  ],
+  "payout": 92.59655564074956,
+  "sum": [
+   1.1800000000000002,
+   -0.25,
+   -1.3999999999999995
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3014140/freeze_rows_3014140.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3014140/red_diff_3014140.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3014140/post_freeze_3014140.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3014140/sum_delta_table_3014140.html"
+  }
+ },
+ {
+  "mid": "2996181",
+  "kickoff": "2026-10-25 00:45 (UTC+8)",
+  "kickoff_ms": 1792860300000,
+  "league": "荷甲",
+  "home": "威廉二世",
+  "away": "甘堡爾",
+  "hcap": 0.0,
+  "books": 359,
+  "n8": 289,
+  "avg": [
+   2.482006920415226,
+   3.6273356401384067,
+   2.5524221453287175
+  ],
+  "payout": 93.42573158618454,
+  "sum": [
+   0.05999999999999872,
+   -0.20000000000000062,
+   8.881784197001252e-16
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2996181/freeze_rows_2996181.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2996181/red_diff_2996181.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2996181/post_freeze_2996181.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2996181/sum_delta_table_2996181.html"
+  }
+ },
+ {
+  "mid": "3023503",
+  "kickoff": "2026-10-25 01:00 (UTC+8)",
+  "kickoff_ms": 1792861200000,
+  "league": "葡超",
+  "home": "艾華卡",
+  "away": "阿洛卡",
+  "hcap": 0.25,
+  "books": 360,
+  "n8": 318,
+  "avg": [
+   2.1105345911949662,
+   3.237138364779877,
+   3.4906918238993696
+  ],
+  "payout": 93.5274705143666,
+  "sum": [
+   0.7199999999999998,
+   -0.19999999999999973,
+   -0.7499999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3023503/freeze_rows_3023503.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3023503/red_diff_3023503.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3023503/post_freeze_3023503.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3023503/sum_delta_table_3023503.html"
+  }
+ },
+ {
+  "mid": "3040775",
+  "kickoff": "2026-10-25 01:30 (UTC+8)",
+  "kickoff_ms": 1792863000000,
+  "league": "意乙",
+  "home": "阿雷素",
+  "away": "賓尼雲圖",
+  "hcap": -0.25,
+  "books": 351,
+  "n8": 257,
+  "avg": [
+   3.06992217898833,
+   3.169961089494164,
+   2.304863813229573
+  ],
+  "payout": 93.01741041518835,
+  "sum": [
+   -8.881784197001252e-16,
+   -0.19999999999999973,
+   -0.6400000000000006
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3040775/freeze_rows_3040775.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3040775/red_diff_3040775.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3040775/post_freeze_3040775.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3040775/sum_delta_table_3040775.html"
+  }
+ },
+ {
+  "mid": "2962700",
+  "kickoff": "2026-10-25 01:45 (UTC+8)",
+  "kickoff_ms": 1792863900000,
+  "league": "阿甲",
+  "home": "班菲特",
+  "away": "拉魯斯",
+  "hcap": -0.25,
+  "books": 355,
+  "n8": 281,
+  "avg": [
+   3.651387900355872,
+   3.131601423487544,
+   2.0750177935943084
+  ],
+  "payout": 93.01309077049663,
+  "sum": [
+   0.5499999999999967,
+   0.4500000000000002,
+   -0.7999999999999998
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2962700/freeze_rows_2962700.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2962700/red_diff_2962700.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2962700/post_freeze_2962700.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2962700/sum_delta_table_2962700.html"
+  }
+ },
+ {
+  "mid": "3047028",
+  "kickoff": "2026-10-25 02:00 (UTC+8)",
+  "kickoff_ms": 1792864800000,
+  "league": "沙地聯",
+  "home": "利雅得體育",
+  "away": "艾塔亞文",
+  "hcap": -0.25,
+  "books": 334,
+  "n8": 161,
+  "avg": [
+   2.7894409937888174,
+   3.35335403726708,
+   2.3637888198757753
+  ],
+  "payout": 92.61374816336892,
+  "sum": [
+   -3.1999999999999997,
+   -1.0,
+   2.96
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3047028/freeze_rows_3047028.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3047028/red_diff_3047028.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3047028/post_freeze_3047028.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3047028/sum_delta_table_3047028.html"
+  }
+ },
+ {
+  "mid": "3019171",
+  "kickoff": "2026-10-25 02:30 (UTC+8)",
+  "kickoff_ms": 1792866600000,
+  "league": "德乙",
+  "home": "紐倫堡",
+  "away": "凱沙羅頓",
+  "hcap": 0.5,
+  "books": 359,
+  "n8": 333,
+  "avg": [
+   2.056246246246247,
+   3.693213213213214,
+   3.151921921921923
+  ],
+  "payout": 93.07895187487901,
+  "sum": [
+   1.3000000000000007,
+   -0.5000000000000004,
+   -0.7999999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3019171/freeze_rows_3019171.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3019171/red_diff_3019171.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3019171/post_freeze_3019171.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3019171/sum_delta_table_3019171.html"
+  }
+ },
+ {
+  "mid": "2995374",
+  "kickoff": "2026-10-25 02:45 (UTC+8)",
+  "kickoff_ms": 1792867500000,
+  "league": "法甲",
+  "home": "朗斯",
+  "away": "巴黎FC",
+  "hcap": 0.25,
+  "books": 363,
+  "n8": 325,
+  "avg": [
+   2.547138461538464,
+   3.541815384615381,
+   2.6172923076923107
+  ],
+  "payout": 94.60623714721628,
+  "sum": [
+   0.8200000000000012,
+   -0.7500000000000004,
+   -0.41999999999999904
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2995374/freeze_rows_2995374.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2995374/red_diff_2995374.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2995374/post_freeze_2995374.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2995374/sum_delta_table_2995374.html"
+  }
+ },
+ {
+  "mid": "3003594",
+  "kickoff": "2026-10-25 02:45 (UTC+8)",
+  "kickoff_ms": 1792867500000,
+  "league": "比甲",
+  "home": "韋斯達路",
+  "away": "華斯蘭比華倫",
+  "hcap": 0.25,
+  "books": 359,
+  "n8": 325,
+  "avg": [
+   1.890523076923075,
+   3.816184615384611,
+   3.554953846153846
+  ],
+  "payout": 93.25804315204307,
+  "sum": [
+   -2.2999999999999994,
+   0.20000000000000018,
+   3.45
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3003594/freeze_rows_3003594.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3003594/red_diff_3003594.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3003594/post_freeze_3003594.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3003594/sum_delta_table_3003594.html"
+  }
+ },
+ {
+  "mid": "3003598",
+  "kickoff": "2026-10-25 02:45 (UTC+8)",
+  "kickoff_ms": 1792867500000,
+  "league": "比甲",
+  "home": "拉路維爾",
+  "away": "華雷根",
+  "hcap": -0.25,
+  "books": 353,
+  "n8": 242,
+  "avg": [
+   2.9386776859504136,
+   3.2589669421487595,
+   2.350909090909093
+  ],
+  "payout": 93.23990457776564,
+  "sum": [
+   -0.52,
+   -0.44999999999999973,
+   0.4400000000000004
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3003598/freeze_rows_3003598.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3003598/red_diff_3003598.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3003598/post_freeze_3003598.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3003598/sum_delta_table_3003598.html"
+  }
+ },
+ {
+  "mid": "2940247",
+  "kickoff": "2026-10-25 03:00 (UTC+8)",
+  "kickoff_ms": 1792868400000,
+  "league": "巴西乙",
+  "home": "艾華爾",
+  "away": "保地花高SP",
+  "hcap": 0.25,
+  "books": 330,
+  "n8": 272,
+  "avg": [
+   2.316176470588235,
+   2.981948529411762,
+   3.2078308823529453
+  ],
+  "payout": 92.6926355768696,
+  "sum": [
+   1.1600000000000001,
+   -0.6500000000000004,
+   -0.5
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2940247/freeze_rows_2940247.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2940247/red_diff_2940247.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2940247/post_freeze_2940247.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2940247/sum_delta_table_2940247.html"
+  }
+ },
+ {
+  "mid": "2996182",
+  "kickoff": "2026-10-25 03:00 (UTC+8)",
+  "kickoff_ms": 1792868400000,
+  "league": "荷甲",
+  "home": "海牙",
+  "away": "海倫維恩",
+  "hcap": -0.25,
+  "books": 361,
+  "n8": 275,
+  "avg": [
+   3.347963636363639,
+   3.7955636363636365,
+   1.9695636363636375
+  ],
+  "payout": 93.4683228554736,
+  "sum": [
+   4.440892098500626e-16,
+   0.09999999999999964,
+   -0.09999999999999964
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2996182/freeze_rows_2996182.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2996182/red_diff_2996182.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2996182/post_freeze_2996182.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2996182/sum_delta_table_2996182.html"
+  }
+ },
+ {
+  "mid": "3104245",
+  "kickoff": "2026-10-25 03:00 (UTC+8)",
+  "kickoff_ms": 1792868400000,
+  "league": "烏拉甲",
+  "home": "迪芬沙士砵亭",
+  "away": "蒙特維多競賽會",
+  "hcap": 0.0,
+  "books": 339,
+  "n8": 272,
+  "avg": [
+   3.053382352941174,
+   3.113970588235294,
+   2.25683823529412
+  ],
+  "payout": 91.59716499169495,
+  "sum": [
+   3.7200000000000006,
+   -0.24999999999999956,
+   -3.2199999999999998
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3104245/freeze_rows_3104245.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3104245/red_diff_3104245.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3104245/post_freeze_3104245.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3104245/sum_delta_table_3104245.html"
+  }
+ },
+ {
+  "mid": "2910941",
+  "kickoff": "2026-10-25 03:30 (UTC+8)",
+  "kickoff_ms": 1792870200000,
+  "league": "巴西甲",
+  "home": "國際體育會",
+  "away": "保地花高",
+  "hcap": 0.5,
+  "books": 365,
+  "n8": 314,
+  "avg": [
+   1.9949363057324823,
+   3.5619745222929944,
+   3.489299363057327
+  ],
+  "payout": 93.5801414457371,
+  "sum": [
+   2.02,
+   -0.5000000000000004,
+   -1.7999999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2910941/freeze_rows_2910941.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2910941/red_diff_2910941.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2910941/post_freeze_2910941.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2910941/sum_delta_table_2910941.html"
+  }
+ },
+ {
+  "mid": "2910942",
+  "kickoff": "2026-10-25 03:30 (UTC+8)",
+  "kickoff_ms": 1792870200000,
+  "league": "巴西甲",
+  "home": "米拉索",
+  "away": "聖保羅",
+  "hcap": 0.25,
+  "books": 362,
+  "n8": 299,
+  "avg": [
+   2.2324080267558535,
+   3.2662541806020085,
+   3.1713712374581964
+  ],
+  "payout": 93.50785179057725,
+  "sum": [
+   -1.080000000000001,
+   0.2999999999999994,
+   1.1999999999999997
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2910942/freeze_rows_2910942.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2910942/red_diff_2910942.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2910942/post_freeze_2910942.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2910942/sum_delta_table_2910942.html"
+  }
+ },
+ {
+  "mid": "2910946",
+  "kickoff": "2026-10-25 03:30 (UTC+8)",
+  "kickoff_ms": 1792870200000,
+  "league": "巴西甲",
+  "home": "維多利亞",
+  "away": "巴拉納體育會",
+  "hcap": 0.0,
+  "books": 357,
+  "n8": 295,
+  "avg": [
+   2.5621016949152535,
+   3.285525423728812,
+   2.681559322033899
+  ],
+  "payout": 93.66915980948203,
+  "sum": [
+   -1.3200000000000003,
+   0.1499999999999999,
+   1.8799999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2910946/freeze_rows_2910946.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2910946/red_diff_2910946.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2910946/post_freeze_2910946.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2910946/sum_delta_table_2910946.html"
+  }
+ },
+ {
+  "mid": "2940246",
+  "kickoff": "2026-10-25 03:30 (UTC+8)",
+  "kickoff_ms": 1792870200000,
+  "league": "巴西乙",
+  "home": "戈亞尼恩斯",
+  "away": "路禾利桑天奴",
+  "hcap": 0.0,
+  "books": 334,
+  "n8": 284,
+  "avg": [
+   2.4457746478873243,
+   3.2135211267605652,
+   2.775669014084508
+  ],
+  "payout": 92.56456180447402,
+  "sum": [
+   -1.7600000000000007,
+   0.1499999999999999,
+   2.229999999999999
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2940246/freeze_rows_2940246.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2940246/red_diff_2940246.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2940246/post_freeze_2940246.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2940246/sum_delta_table_2940246.html"
+  }
+ },
+ {
+  "mid": "2940253",
+  "kickoff": "2026-10-25 03:30 (UTC+8)",
+  "kickoff_ms": 1792870200000,
+  "league": "巴西乙",
+  "home": "聖貝納多",
+  "away": "維拉諾瓦",
+  "hcap": 0.0,
+  "books": 329,
+  "n8": 200,
+  "avg": [
+   2.9368000000000007,
+   3.0516499999999973,
+   2.4532999999999983
+  ],
+  "payout": 92.95300197761155,
+  "sum": [
+   1.4500000000000006,
+   -0.25000000000000044,
+   -1.3000000000000007
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2940253/freeze_rows_2940253.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2940253/red_diff_2940253.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2940253/post_freeze_2940253.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2940253/sum_delta_table_2940253.html"
+  }
+ },
+ {
+  "mid": "2962710",
+  "kickoff": "2026-10-25 04:00 (UTC+8)",
+  "kickoff_ms": 1792872000000,
+  "league": "阿甲",
+  "home": "塔勒瑞斯",
+  "away": "防衛者",
+  "hcap": 0.25,
+  "books": 355,
+  "n8": 288,
+  "avg": [
+   2.310868055555556,
+   3.1649305555555567,
+   3.0773263888888884
+  ],
+  "payout": 93.13953531799815,
+  "sum": [
+   2.0399999999999983,
+   -0.1499999999999999,
+   -1.5000000000000004
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2962710/freeze_rows_2962710.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2962710/red_diff_2962710.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2962710/post_freeze_2962710.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2962710/sum_delta_table_2962710.html"
+  }
+ },
+ {
+  "mid": "2908864",
+  "kickoff": "2026-10-25 05:40 (UTC+8)",
+  "kickoff_ms": 1792878000000,
+  "league": "美職業",
+  "home": "紐約紅牛",
+  "away": "國際邁阿密",
+  "hcap": -0.5,
+  "books": 360,
+  "n8": 305,
+  "avg": [
+   3.3357049180327873,
+   4.168852459016397,
+   1.8748524590163966
+  ],
+  "payout": 93.1935028015124,
+  "sum": [
+   -1.1200000000000112,
+   -0.9200000000000008,
+   1.02
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908864/freeze_rows_2908864.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908864/red_diff_2908864.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908864/post_freeze_2908864.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908864/sum_delta_table_2908864.html"
+  }
+ },
+ {
+  "mid": "3104248",
+  "kickoff": "2026-10-25 06:00 (UTC+8)",
+  "kickoff_ms": 1792879200000,
+  "league": "烏拉甲",
+  "home": "馬爾多納多",
+  "away": "丹紐比奧",
+  "hcap": 0.5,
+  "books": 343,
+  "n8": 176,
+  "avg": [
+   1.850795454545456,
+   3.3673295454545435,
+   4.054090909090915
+  ],
+  "payout": 92.25569900075635,
+  "sum": [
+   0.17999999999999927,
+   0.24999999999999956,
+   0.10000000000000009
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3104248/freeze_rows_3104248.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3104248/red_diff_3104248.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3104248/post_freeze_3104248.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3104248/sum_delta_table_3104248.html"
+  }
+ },
+ {
+  "mid": "2962709",
+  "kickoff": "2026-10-25 06:15 (UTC+8)",
+  "kickoff_ms": 1792880100000,
+  "league": "阿甲",
+  "home": "聖羅倫素",
+  "away": "紐維爾舊生",
+  "hcap": 0.25,
+  "books": 353,
+  "n8": 292,
+  "avg": [
+   2.5653082191780827,
+   2.7741780821917796,
+   3.0965410958904136
+  ],
+  "payout": 93.1771231641047,
+  "sum": [
+   1.2200000000000042,
+   -0.5600000000000005,
+   -0.8000000000000007
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2962709/freeze_rows_2962709.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2962709/red_diff_2962709.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2962709/post_freeze_2962709.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2962709/sum_delta_table_2962709.html"
+  }
+ },
+ {
+  "mid": "2910937",
+  "kickoff": "2026-10-25 06:30 (UTC+8)",
+  "kickoff_ms": 1792881000000,
+  "league": "巴西甲",
+  "home": "查比高恩斯",
+  "away": "富明尼斯",
+  "hcap": -0.5,
+  "books": 360,
+  "n8": 306,
+  "avg": [
+   4.318496732026144,
+   3.64071895424837,
+   1.7761764705882341
+  ],
+  "payout": 93.5243546399497,
+  "sum": [
+   -0.1499999999999999,
+   0.2999999999999998,
+   0.27999999999999936
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2910937/freeze_rows_2910937.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2910937/red_diff_2910937.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2910937/post_freeze_2910937.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2910937/sum_delta_table_2910937.html"
+  }
+ },
+ {
+  "mid": "2942687",
+  "kickoff": "2026-10-25 07:00 (UTC+8)",
+  "kickoff_ms": 1792882800000,
+  "league": "美冠聯",
+  "home": "哈特福德競技",
+  "away": "羅德島",
+  "hcap": 0.0,
+  "books": 296,
+  "n8": 138,
+  "avg": [
+   2.376666666666666,
+   3.16014492753623,
+   2.7155797101449286
+  ],
+  "payout": 90.46138571283643,
+  "sum": [
+   0.14000000000000057,
+   0.1499999999999999,
+   -0.14000000000000146
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2942687/freeze_rows_2942687.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2942687/red_diff_2942687.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2942687/post_freeze_2942687.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2942687/sum_delta_table_2942687.html"
+  }
+ },
+ {
+  "mid": "2942689",
+  "kickoff": "2026-10-25 07:00 (UTC+8)",
+  "kickoff_ms": 1792882800000,
+  "league": "美冠聯",
+  "home": "路易斯維爾FC",
+  "away": "底特律城",
+  "hcap": 0.25,
+  "books": 297,
+  "n8": 202,
+  "avg": [
+   1.991980198019803,
+   3.2626237623762364,
+   3.376930693069308
+  ],
+  "payout": 90.52709126020578,
+  "sum": [
+   1.3600000000000008,
+   -0.4500000000000002,
+   -1.7999999999999998
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2942689/freeze_rows_2942689.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2942689/red_diff_2942689.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2942689/post_freeze_2942689.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2942689/sum_delta_table_2942689.html"
+  }
+ },
+ {
+  "mid": "2997458",
+  "kickoff": "2026-10-25 07:00 (UTC+8)",
+  "kickoff_ms": 1792882800000,
+  "league": "墨西聯",
+  "home": "萊昂",
+  "away": "托盧卡",
+  "hcap": -0.5,
+  "books": 354,
+  "n8": 323,
+  "avg": [
+   3.5806501547987635,
+   3.6608978328173434,
+   1.8943653250774004
+  ],
+  "payout": 92.56540498380295,
+  "sum": [
+   1.899999999999996,
+   0.9499999999999997,
+   -2.0799999999999974
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2997458/freeze_rows_2997458.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2997458/red_diff_2997458.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2997458/post_freeze_2997458.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2997458/sum_delta_table_2997458.html"
+  }
+ },
+ {
+  "mid": "3024492",
+  "kickoff": "2026-10-25 07:00 (UTC+8)",
+  "kickoff_ms": 1792882800000,
+  "league": "墨西甲",
+  "home": "雲拿度斯",
+  "away": "亞拉克萊恩斯",
+  "hcap": 0.25,
+  "books": 269,
+  "n8": 211,
+  "avg": [
+   2.101232227488152,
+   3.2458767772511874,
+   3.1650236966824643
+  ],
+  "payout": 90.91340583651267,
+  "sum": [
+   0.40000000000000036,
+   -0.24999999999999956,
+   0.10000000000000009
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3024492/freeze_rows_3024492.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3024492/red_diff_3024492.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3024492/post_freeze_3024492.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3024492/sum_delta_table_3024492.html"
+  }
+ },
+ {
+  "mid": "2908865",
+  "kickoff": "2026-10-25 07:30 (UTC+8)",
+  "kickoff_ms": 1792884600000,
+  "league": "美職業",
+  "home": "亞特蘭大聯",
+  "away": "芝加哥火燄",
+  "hcap": 0.0,
+  "books": 357,
+  "n8": 201,
+  "avg": [
+   2.620348258706469,
+   3.7797014925373134,
+   2.3582089552238794
+  ],
+  "payout": 93.43607353319683,
+  "sum": [
+   0.6400000000000006,
+   0.25,
+   -0.1800000000000015
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908865/freeze_rows_2908865.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908865/red_diff_2908865.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908865/post_freeze_2908865.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908865/sum_delta_table_2908865.html"
+  }
+ },
+ {
+  "mid": "2908866",
+  "kickoff": "2026-10-25 07:30 (UTC+8)",
+  "kickoff_ms": 1792884600000,
+  "league": "美職業",
+  "home": "華盛頓聯隊",
+  "away": "辛辛那提",
+  "hcap": -0.25,
+  "books": 342,
+  "n8": 226,
+  "avg": [
+   2.733761061946901,
+   3.888805309734511,
+   2.225663716814159
+  ],
+  "payout": 93.26192173329181,
+  "sum": [
+   -0.1999999999999993,
+   0.25000000000000044,
+   0.09999999999999964
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908866/freeze_rows_2908866.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908866/red_diff_2908866.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908866/post_freeze_2908866.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908866/sum_delta_table_2908866.html"
+  }
+ },
+ {
+  "mid": "2908867",
+  "kickoff": "2026-10-25 07:30 (UTC+8)",
+  "kickoff_ms": 1792884600000,
+  "league": "美職業",
+  "home": "奧蘭多城",
+  "away": "紐約城",
+  "hcap": 0.25,
+  "books": 320,
+  "n8": 291,
+  "avg": [
+   2.1081099656357414,
+   3.8563230240549844,
+   2.9423024054982787
+  ],
+  "payout": 93.14952111883319,
+  "sum": [
+   0.47999999999999954,
+   -0.10000000000000053,
+   -1.7300000000000022
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908867/freeze_rows_2908867.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908867/red_diff_2908867.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908867/post_freeze_2908867.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908867/sum_delta_table_2908867.html"
+  }
+ },
+ {
+  "mid": "2910944",
+  "kickoff": "2026-10-25 08:00 (UTC+8)",
+  "kickoff_ms": 1792886400000,
+  "league": "巴西甲",
+  "home": "山度士",
+  "away": "巴希亞",
+  "hcap": 0.5,
+  "books": 343,
+  "n8": 230,
+  "avg": [
+   1.8333478260869556,
+   3.888217391304348,
+   3.749826086956523
+  ],
+  "payout": 93.5176786605505,
+  "sum": [
+   -1.7799999999999994,
+   1.7499999999999996,
+   1.4
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2910944/freeze_rows_2910944.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2910944/red_diff_2910944.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2910944/post_freeze_2910944.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2910944/sum_delta_table_2910944.html"
+  }
+ },
+ {
+  "mid": "2916776",
+  "kickoff": "2026-10-25 08:00 (UTC+8)",
+  "kickoff_ms": 1792886400000,
+  "league": "阿乙",
+  "home": "博利瓦爾",
+  "away": "高隆",
+  "hcap": 0.0,
+  "books": 310,
+  "n8": 281,
+  "avg": [
+   2.5611387900355873,
+   2.6986832740213518,
+   2.978469750889681
+  ],
+  "payout": 91.17887536215754,
+  "sum": [
+   -1.3599999999999994,
+   0.6000000000000005,
+   0.5
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2916776/freeze_rows_2916776.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2916776/red_diff_2916776.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2916776/post_freeze_2916776.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2916776/sum_delta_table_2916776.html"
+  }
+ },
+ {
+  "mid": "2962708",
+  "kickoff": "2026-10-25 08:30 (UTC+8)",
+  "kickoff_ms": 1792888200000,
+  "league": "阿甲",
+  "home": "羅沙里奧中央",
+  "away": "颶風隊",
+  "hcap": 0.5,
+  "books": 330,
+  "n8": 286,
+  "avg": [
+   1.7458041958041939,
+   3.3104195804195786,
+   5.048986013986017
+  ],
+  "payout": 93.20202988884084,
+  "sum": [
+   0.6000000000000005,
+   -0.20000000000000018,
+   -1.4500000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2962708/freeze_rows_2962708.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2962708/red_diff_2962708.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2962708/post_freeze_2962708.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2962708/sum_delta_table_2962708.html"
+  }
+ },
+ {
+  "mid": "2908870",
+  "kickoff": "2026-10-25 08:30 (UTC+8)",
+  "kickoff_ms": 1792888200000,
+  "league": "美職業",
+  "home": "FC達拉斯",
+  "away": "聖荷西地震",
+  "hcap": 0.5,
+  "books": 335,
+  "n8": 229,
+  "avg": [
+   1.8040611353711808,
+   3.9959825327510954,
+   3.771179039301309
+  ],
+  "payout": 93.48193958342506,
+  "sum": [
+   0.9600000000000009,
+   -0.29999999999999893,
+   -1.65
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908870/freeze_rows_2908870.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908870/red_diff_2908870.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908870/post_freeze_2908870.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908870/sum_delta_table_2908870.html"
+  }
+ },
+ {
+  "mid": "2908871",
+  "kickoff": "2026-10-25 08:30 (UTC+8)",
+  "kickoff_ms": 1792888200000,
+  "league": "美職業",
+  "home": "侯斯頓戴拿模",
+  "away": "明尼蘇達聯",
+  "hcap": 0.25,
+  "books": 303,
+  "n8": 224,
+  "avg": [
+   2.1551785714285705,
+   3.5840178571428583,
+   3.018035714285714
+  ],
+  "payout": 93.07897488041846,
+  "sum": [
+   1.3000000000000025,
+   -0.10000000000000009,
+   -0.9500000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908871/freeze_rows_2908871.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908871/red_diff_2908871.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908871/post_freeze_2908871.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908871/sum_delta_table_2908871.html"
+  }
+ },
+ {
+  "mid": "2908873",
+  "kickoff": "2026-10-25 08:40 (UTC+8)",
+  "kickoff_ms": 1792888800000,
+  "league": "美職業",
+  "home": "肯薩斯體育會",
+  "away": "奧斯汀FC",
+  "hcap": 0.25,
+  "books": 299,
+  "n8": 257,
+  "avg": [
+   2.1354474708171214,
+   3.8373151750972783,
+   2.9026848249027255
+  ],
+  "payout": 93.16248496723409,
+  "sum": [
+   -0.7400000000000002,
+   0.7299999999999995,
+   0.8300000000000001
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908873/freeze_rows_2908873.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908873/red_diff_2908873.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908873/post_freeze_2908873.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908873/sum_delta_table_2908873.html"
+  }
+ },
+ {
+  "mid": "2997459",
+  "kickoff": "2026-10-25 09:00 (UTC+8)",
+  "kickoff_ms": 1792890000000,
+  "league": "墨西聯",
+  "home": "蒙特雷",
+  "away": "哥達拿查拉",
+  "hcap": 0.25,
+  "books": 322,
+  "n8": 227,
+  "avg": [
+   2.296740088105728,
+   3.264669603524228,
+   2.9731718061673993
+  ],
+  "payout": 92.76002652465756,
+  "sum": [
+   -2.059999999999998,
+   -1.7500000000000009,
+   2.5500000000000007
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2997459/freeze_rows_2997459.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2997459/red_diff_2997459.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2997459/post_freeze_2997459.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2997459/sum_delta_table_2997459.html"
+  }
+ },
+ {
+  "mid": "3024495",
+  "kickoff": "2026-10-25 09:00 (UTC+8)",
+  "kickoff_ms": 1792890000000,
+  "league": "墨西甲",
+  "home": "坦皮科馬德羅",
+  "away": "拉巴斯競技",
+  "hcap": 0.0,
+  "books": 238,
+  "n8": 63,
+  "avg": [
+   2.491746031746032,
+   3.546190476190478,
+   2.4088888888888893
+  ],
+  "payout": 91.03762696731678,
+  "sum": [
+   0.1200000000000001,
+   0.19999999999999973,
+   0.21999999999999975
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3024495/freeze_rows_3024495.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3024495/red_diff_3024495.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3024495/post_freeze_3024495.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3024495/sum_delta_table_3024495.html"
+  }
+ },
+ {
+  "mid": "3024497",
+  "kickoff": "2026-10-25 09:00 (UTC+8)",
+  "kickoff_ms": 1792890000000,
+  "league": "墨西甲",
+  "home": "紮卡特卡斯",
+  "away": "雷昂內斯",
+  "hcap": 0.25,
+  "books": 256,
+  "n8": 101,
+  "avg": [
+   1.9885148514851492,
+   3.5737623762376227,
+   3.186336633663367
+  ],
+  "payout": 91.19552320268515,
+  "sum": [
+   0.38000000000000034,
+   -0.19999999999999973,
+   -0.3500000000000001
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3024497/freeze_rows_3024497.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3024497/red_diff_3024497.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3024497/post_freeze_3024497.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3024497/sum_delta_table_3024497.html"
+  }
+ },
+ {
+  "mid": "2908869",
+  "kickoff": "2026-10-25 09:30 (UTC+8)",
+  "kickoff_ms": 1792891800000,
+  "league": "美職業",
+  "home": "科羅拉多急流",
+  "away": "溫哥華白帽",
+  "hcap": -0.25,
+  "books": 349,
+  "n8": 244,
+  "avg": [
+   3.074139344262295,
+   3.521598360655739,
+   2.165368852459018
+  ],
+  "payout": 93.36446162962608,
+  "sum": [
+   0.1499999999999999,
+   -0.2999999999999998,
+   0.6599999999999993
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908869/freeze_rows_2908869.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908869/red_diff_2908869.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908869/post_freeze_2908869.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908869/sum_delta_table_2908869.html"
+  }
+ },
+ {
+  "mid": "2908872",
+  "kickoff": "2026-10-25 09:30 (UTC+8)",
+  "kickoff_ms": 1792891800000,
+  "league": "美職業",
+  "home": "皇家鹽湖城",
+  "away": "聖路易斯城",
+  "hcap": 0.5,
+  "books": 347,
+  "n8": 317,
+  "avg": [
+   2.0358044164037854,
+   3.8342586750788636,
+   3.113564668769722
+  ],
+  "payout": 93.18030068176202,
+  "sum": [
+   -4.380000000000004,
+   0.5999999999999996,
+   5.609999999999999
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908872/freeze_rows_2908872.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908872/red_diff_2908872.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908872/post_freeze_2908872.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908872/sum_delta_table_2908872.html"
+  }
+ },
+ {
+  "mid": "2942690",
+  "kickoff": "2026-10-25 10:00 (UTC+8)",
+  "kickoff_ms": 1792893600000,
+  "league": "美冠聯",
+  "home": "蒙特雷灣",
+  "away": "拉斯維加斯燈火",
+  "hcap": 0.0,
+  "books": 291,
+  "n8": 148,
+  "avg": [
+   2.4100675675675687,
+   3.67087837837838,
+   2.391891891891893
+  ],
+  "payout": 90.46338711773514,
+  "sum": [
+   -0.1800000000000015,
+   0.25,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2942690/freeze_rows_2942690.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2942690/red_diff_2942690.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2942690/post_freeze_2942690.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2942690/sum_delta_table_2942690.html"
+  }
+ },
+ {
+  "mid": "2942691",
+  "kickoff": "2026-10-25 10:00 (UTC+8)",
+  "kickoff_ms": 1792893600000,
+  "league": "美冠聯",
+  "home": "鳳凰城展翅",
+  "away": "列克星敦",
+  "hcap": 0.25,
+  "books": 285,
+  "n8": 224,
+  "avg": [
+   2.107410714285716,
+   3.5306250000000006,
+   2.8837053571428535
+  ],
+  "payout": 90.53641105800159,
+  "sum": [
+   -1.3000000000000016,
+   0.20000000000000018,
+   2.04
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2942691/freeze_rows_2942691.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2942691/red_diff_2942691.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2942691/post_freeze_2942691.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2942691/sum_delta_table_2942691.html"
+  }
+ },
+ {
+  "mid": "2908874",
+  "kickoff": "2026-10-25 10:30 (UTC+8)",
+  "kickoff_ms": 1792895400000,
+  "league": "美職業",
+  "home": "波特蘭伐木者",
+  "away": "夏洛特FC",
+  "hcap": 0.5,
+  "books": 356,
+  "n8": 334,
+  "avg": [
+   1.9123952095808376,
+   4.046826347305392,
+   3.2994910179640717
+  ],
+  "payout": 93.18893839627225,
+  "sum": [
+   -0.6199999999999997,
+   0.3999999999999999,
+   1.0499999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908874/freeze_rows_2908874.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908874/red_diff_2908874.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908874/post_freeze_2908874.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908874/sum_delta_table_2908874.html"
+  }
+ },
+ {
+  "mid": "2908875",
+  "kickoff": "2026-10-25 10:30 (UTC+8)",
+  "kickoff_ms": 1792895400000,
+  "league": "美職業",
+  "home": "聖地亞哥",
+  "away": "西雅圖海灣者",
+  "hcap": 0.25,
+  "books": 346,
+  "n8": 256,
+  "avg": [
+   2.1580078125000006,
+   3.8120703124999986,
+   2.8782031250000006
+  ],
+  "payout": 93.1832715223927,
+  "sum": [
+   0.20000000000000107,
+   -0.19999999999999973,
+   -0.2400000000000002
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2908875/freeze_rows_2908875.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2908875/red_diff_2908875.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2908875/post_freeze_2908875.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908875/sum_delta_table_2908875.html"
+  }
+ },
+ {
+  "mid": "2997460",
+  "kickoff": "2026-10-25 11:00 (UTC+8)",
+  "kickoff_ms": 1792897200000,
+  "league": "墨西聯",
+  "home": "普馬斯",
+  "away": "堤格雷斯",
+  "hcap": 0.0,
+  "books": 348,
+  "n8": 154,
+  "avg": [
+   2.402792207792206,
+   3.3659740259740247,
+   2.7690259740259746
+  ],
+  "payout": 93.07424186333546,
+  "sum": [
+   -4.380000000000001,
+   0.04999999999999982,
+   4.0200000000000005
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2997460/freeze_rows_2997460.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2997460/red_diff_2997460.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2997460/post_freeze_2997460.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2997460/sum_delta_table_2997460.html"
+  }
+ },
+ {
+  "mid": "2956850",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "日職女甲",
+  "home": "FC愛媛女足",
+  "away": "世田谷女足",
+  "hcap": -0.25,
+  "books": 188,
+  "n8": 138,
+  "avg": [
+   3.1119565217391307,
+   3.345289855072461,
+   2.04949275362319
+  ],
+  "payout": 90.23685760875095,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2956850/freeze_rows_2956850.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2956850/red_diff_2956850.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2956850/post_freeze_2956850.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2956850/sum_delta_table_2956850.html"
+  }
+ },
+ {
+  "mid": "2956851",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "日職女甲",
+  "home": "播磨阿爾比恩女足",
+  "away": "橫濱海鷗女足",
+  "hcap": -0.25,
+  "books": 198,
+  "n8": 144,
+  "avg": [
+   2.953750000000001,
+   3.2294444444444435,
+   2.1645833333333333
+  ],
+  "payout": 90.07498462553168,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2956851/freeze_rows_2956851.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2956851/red_diff_2956851.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2956851/post_freeze_2956851.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2956851/sum_delta_table_2956851.html"
+  }
+ },
+ {
+  "mid": "2956853",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "日職女甲",
+  "home": "維亞馬特拉斯宮崎女足",
+  "away": "虎鯨鴨川女足",
+  "hcap": 0.25,
+  "books": 188,
+  "n8": 90,
+  "avg": [
+   2.070555555555555,
+   3.2837777777777766,
+   3.0967777777777767
+  ],
+  "payout": 90.05716917809247,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2956853/freeze_rows_2956853.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2956853/red_diff_2956853.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2956853/post_freeze_2956853.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2956853/sum_delta_table_2956853.html"
+  }
+ },
+ {
+  "mid": "3001242",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "日職丙",
+  "home": "鳥取飛翔",
+  "away": "高知聯合",
+  "hcap": 0.25,
+  "books": 238,
+  "n8": 214,
+  "avg": [
+   2.212289719626168,
+   3.2145794392523395,
+   2.865327102803736
+  ],
+  "payout": 89.91970119778837,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001242/freeze_rows_3001242.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001242/red_diff_3001242.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001242/post_freeze_3001242.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001242/sum_delta_table_3001242.html"
+  }
+ },
+ {
+  "mid": "3001244",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "日職丙",
+  "home": "熊本深紅",
+  "away": "FC岐阜",
+  "hcap": 0.0,
+  "books": 242,
+  "n8": 223,
+  "avg": [
+   2.4247982062780276,
+   3.200582959641255,
+   2.5940358744394647
+  ],
+  "payout": 90.06183722142336,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001244/freeze_rows_3001244.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001244/red_diff_3001244.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001244/post_freeze_3001244.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001244/sum_delta_table_3001244.html"
+  }
+ },
+ {
+  "mid": "3041384",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "澳超",
+  "home": "悉尼FC",
+  "away": "阿德萊德聯",
+  "hcap": 0.25,
+  "books": 348,
+  "n8": 167,
+  "avg": [
+   2.1804191616766473,
+   3.514251497005988,
+   3.034311377245512
+  ],
+  "payout": 93.21861627276273,
+  "sum": [
+   0.3599999999999999,
+   -0.19999999999999973,
+   -0.5499999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3041384/freeze_rows_3041384.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3041384/red_diff_3041384.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3041384/post_freeze_3041384.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3041384/sum_delta_table_3041384.html"
+  }
+ },
+ {
+  "mid": "3071135",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "日足聯",
+  "home": "盛岡雙鶴",
+  "away": "橫濱體育",
+  "hcap": 0.25,
+  "books": 181,
+  "n8": 28,
+  "avg": [
+   2.182142857142858,
+   3.4067857142857143,
+   2.8046428571428557
+  ],
+  "payout": 90.22432175673757,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071135/freeze_rows_3071135.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071135/red_diff_3071135.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071135/post_freeze_3071135.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071135/sum_delta_table_3071135.html"
+  }
+ },
+ {
+  "mid": "3071136",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "日足聯",
+  "home": "橫川武藏野",
+  "away": "市原勝絆",
+  "hcap": -0.5,
+  "books": 219,
+  "n8": 146,
+  "avg": [
+   3.618561643835617,
+   3.191095890410957,
+   1.914452054794521
+  ],
+  "payout": 89.92259603370466,
+  "sum": [
+   0.7999999999999998,
+   0.10000000000000009,
+   -0.7999999999999998
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071136/freeze_rows_3071136.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071136/red_diff_3071136.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071136/post_freeze_3071136.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071136/sum_delta_table_3071136.html"
+  }
+ },
+ {
+  "mid": "3101975",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "澳錦標",
+  "home": "悉尼奧林匹克",
+  "away": "灣水市",
+  "hcap": 0.25,
+  "books": 221,
+  "n8": 74,
+  "avg": [
+   1.9795945945945947,
+   3.817297297297299,
+   3.0062162162162163
+  ],
+  "payout": 90.92864427520517,
+  "sum": [
+   -0.4200000000000004,
+   0.2999999999999998,
+   0.6299999999999994
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3101975/freeze_rows_3101975.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3101975/red_diff_3101975.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3101975/post_freeze_3101975.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3101975/sum_delta_table_3101975.html"
+  }
+ },
+ {
+  "mid": "2925560",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "韓K2聯",
+  "home": "水原FC",
+  "away": "忠南牙山",
+  "hcap": 0.5,
+  "books": 279,
+  "n8": 69,
+  "avg": [
+   1.7631884057971015,
+   3.6123188405797095,
+   4.018550724637681
+  ],
+  "payout": 91.50547467861787,
+  "sum": [
+   -0.040000000000000036,
+   -0.050000000000000266,
+   0.10000000000000053
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2925560/freeze_rows_2925560.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2925560/red_diff_2925560.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2925560/post_freeze_2925560.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2925560/sum_delta_table_2925560.html"
+  }
+ },
+ {
+  "mid": "2925561",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "韓K2聯",
+  "home": "釜山偶像",
+  "away": "慶南FC",
+  "hcap": 0.5,
+  "books": 315,
+  "n8": 45,
+  "avg": [
+   1.8719999999999997,
+   3.3777777777777773,
+   3.849555555555556
+  ],
+  "payout": 91.74220071497767,
+  "sum": [
+   0.0,
+   -0.0999999999999992,
+   0.10000000000000009
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2925561/freeze_rows_2925561.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2925561/red_diff_2925561.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2925561/post_freeze_2925561.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2925561/sum_delta_table_2925561.html"
+  }
+ },
+ {
+  "mid": "3000133",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日職乙",
+  "home": "新潟天鵝",
+  "away": "仙台維加泰",
+  "hcap": -0.5,
+  "books": 310,
+  "n8": 75,
+  "avg": [
+   3.9969333333333332,
+   3.6116,
+   1.8021333333333345
+  ],
+  "payout": 92.42355133911867,
+  "sum": [
+   0.2499999999999991,
+   -0.1499999999999999,
+   0.10000000000000009
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000133/freeze_rows_3000133.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000133/red_diff_3000133.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000133/post_freeze_3000133.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000133/sum_delta_table_3000133.html"
+  }
+ },
+ {
+  "mid": "3000134",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日職乙",
+  "home": "秋田藍閃電",
+  "away": "今治",
+  "hcap": 0.25,
+  "books": 315,
+  "n8": 120,
+  "avg": [
+   2.0574166666666662,
+   3.2346666666666626,
+   3.4355833333333323
+  ],
+  "payout": 92.05825678038394,
+  "sum": [
+   -0.16000000000000103,
+   -0.04999999999999982,
+   0.20000000000000018
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000134/freeze_rows_3000134.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000134/red_diff_3000134.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000134/post_freeze_3000134.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000134/sum_delta_table_3000134.html"
+  }
+ },
+ {
+  "mid": "3000137",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日職乙",
+  "home": "山形山神",
+  "away": "宮崎棒牛鳥",
+  "hcap": -0.25,
+  "books": 317,
+  "n8": 131,
+  "avg": [
+   3.058396946564887,
+   3.1985496183206092,
+   2.2116030534351157
+  ],
+  "payout": 91.59429233451951,
+  "sum": [
+   0.3200000000000003,
+   0.04999999999999982,
+   -0.29999999999999893
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000137/freeze_rows_3000137.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000137/red_diff_3000137.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000137/post_freeze_3000137.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000137/sum_delta_table_3000137.html"
+  }
+ },
+ {
+  "mid": "3000138",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日職乙",
+  "home": "大分三神",
+  "away": "甲府風林",
+  "hcap": 0.5,
+  "books": 313,
+  "n8": 85,
+  "avg": [
+   1.8427058823529407,
+   3.2750588235294122,
+   4.324705882352937
+  ],
+  "payout": 92.65712430786233,
+  "sum": [
+   -0.09999999999999964,
+   0.04999999999999982,
+   0.16999999999999993
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000138/freeze_rows_3000138.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000138/red_diff_3000138.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000138/post_freeze_3000138.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000138/sum_delta_table_3000138.html"
+  }
+ },
+ {
+  "mid": "3000508",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日職聯",
+  "home": "名古屋八鯨",
+  "away": "橫濱水手",
+  "hcap": 0.25,
+  "books": 312,
+  "n8": 61,
+  "avg": [
+   2.36311475409836,
+   3.5252459016393427,
+   2.775573770491803
+  ],
+  "payout": 93.70979296723569,
+  "sum": [
+   0.08000000000000007,
+   0.25000000000000044,
+   0.09999999999999964
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3000508/freeze_rows_3000508.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3000508/red_diff_3000508.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3000508/post_freeze_3000508.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3000508/sum_delta_table_3000508.html"
+  }
+ },
+ {
+  "mid": "3001243",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日職丙",
+  "home": "北九州向日葵",
+  "away": "長野琶扼摟",
+  "hcap": 0.25,
+  "books": 241,
+  "n8": 63,
+  "avg": [
+   2.1149206349206335,
+   3.428888888888888,
+   2.9604761904761894
+  ],
+  "payout": 90.72317919336818,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001243/freeze_rows_3001243.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001243/red_diff_3001243.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001243/post_freeze_3001243.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001243/sum_delta_table_3001243.html"
+  }
+ },
+ {
+  "mid": "3001248",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日職丙",
+  "home": "瑞拉滋賀",
+  "away": "金澤聯隊",
+  "hcap": -0.25,
+  "books": 184,
+  "n8": 30,
+  "avg": [
+   2.8753333333333333,
+   3.4210000000000003,
+   2.163666666666667
+  ],
+  "payout": 90.72135097010433,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001248/freeze_rows_3001248.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001248/red_diff_3001248.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001248/post_freeze_3001248.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001248/sum_delta_table_3001248.html"
+  }
+ },
+ {
+  "mid": "3001250",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日職丙",
+  "home": "松本山雅",
+  "away": "山口雷法",
+  "hcap": 0.0,
+  "books": 224,
+  "n8": 37,
+  "avg": [
+   2.617027027027027,
+   3.2156756756756764,
+   2.4640540540540536
+  ],
+  "payout": 90.99803163514632,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3001250/freeze_rows_3001250.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3001250/red_diff_3001250.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3001250/post_freeze_3001250.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3001250/sum_delta_table_3001250.html"
+  }
+ },
+ {
+  "mid": "3071137",
+  "kickoff": "2026-10-25 13:00 (UTC+8)",
+  "kickoff_ms": 1792904400000,
+  "league": "日足聯",
+  "home": "沼津青藍",
+  "away": "平田町",
+  "hcap": 0.5,
+  "books": 219,
+  "n8": 106,
+  "avg": [
+   1.8411320754716984,
+   3.3199999999999994,
+   3.724811320754719
+  ],
+  "payout": 89.86188295630362,
+  "sum": [
+   0.6000000000000005,
+   -0.5999999999999996,
+   -0.5999999999999996
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/3071137/freeze_rows_3071137.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/3071137/red_diff_3071137.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/3071137/post_freeze_3071137.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071137/sum_delta_table_3071137.html"
+  }
+ }
+]
