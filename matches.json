@@ -4036,7 +4036,7 @@
   "league": "美職業",
   "home": "FC達拉斯",
   "away": "聖荷西地震",
-  "hcap": 0.5,
+  "hcap": 0.25,
   "books": 335,
   "n8": 229,
   "avg": [
@@ -4209,32 +4209,6 @@
   "files": {
    "red_diff": "/data/dsh/bot/workspace/odds/2908869/red_diff_2908869.html",
    "sum_delta_table": "/data/dsh/bot/workspace/odds/2908869/sum_delta_table_2908869.html"
-  }
- },
- {
-  "mid": "2908872",
-  "kickoff": "2026-10-25 09:30 (UTC+8)",
-  "kickoff_ms": 1792891800000,
-  "league": "美職業",
-  "home": "皇家鹽湖城",
-  "away": "聖路易斯城",
-  "hcap": 0.5,
-  "books": 347,
-  "n8": 317,
-  "avg": [
-   2.0358044164037854,
-   3.8342586750788636,
-   3.113564668769722
-  ],
-  "payout": 93.18030068176202,
-  "sum": [
-   -4.380000000000004,
-   0.5999999999999996,
-   5.609999999999999
-  ],
-  "files": {
-   "red_diff": "/data/dsh/bot/workspace/odds/2908872/red_diff_2908872.html",
-   "sum_delta_table": "/data/dsh/bot/workspace/odds/2908872/sum_delta_table_2908872.html"
   }
  },
  {
@@ -4634,7 +4608,7 @@
   "league": "澳錦標",
   "home": "悉尼奧林匹克",
   "away": "灣水市",
-  "hcap": 0.25,
+  "hcap": 0.5,
   "books": 221,
   "n8": 74,
   "avg": [
