@@ -3848,6 +3848,32 @@
   }
  },
  {
+  "mid": "3071410",
+  "kickoff": "2026-10-25 07:15 (UTC+8)",
+  "kickoff_ms": 1792883700000,
+  "league": "澳女聯",
+  "home": "威靈頓鳳凰女足",
+  "away": "墨爾本勝利女足",
+  "hcap": 0.25,
+  "books": 206,
+  "n8": 177,
+  "avg": [
+   1.7147457627118643,
+   3.7139548022598885,
+   3.984858757062149
+  ],
+  "payout": 90.63048356571008,
+  "sum": [
+   -2.4800000000000004,
+   1.0499999999999998,
+   3.5500000000000007
+  ],
+  "files": {
+   "red_diff": "/data/dsh/bot/workspace/odds/3071410/red_diff_3071410.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3071410/sum_delta_table_3071410.html"
+  }
+ },
+ {
   "mid": "2908865",
   "kickoff": "2026-10-25 07:30 (UTC+8)",
   "kickoff_ms": 1792884600000,
@@ -4264,6 +4290,32 @@
   }
  },
  {
+  "mid": "2942693",
+  "kickoff": "2026-10-25 10:00 (UTC+8)",
+  "kickoff_ms": 1792893600000,
+  "league": "美冠聯",
+  "home": "薩克拉門托",
+  "away": "奧克蘭根",
+  "hcap": 0.5,
+  "books": 297,
+  "n8": 266,
+  "avg": [
+   1.6599624060150395,
+   3.7748496240601517,
+   4.1776315789473735
+  ],
+  "payout": 90.3583505794609,
+  "sum": [
+   1.44,
+   -0.39999999999999947,
+   -4.7
+  ],
+  "files": {
+   "red_diff": "/data/dsh/bot/workspace/odds/2942693/red_diff_2942693.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2942693/sum_delta_table_2942693.html"
+  }
+ },
+ {
   "mid": "2908874",
   "kickoff": "2026-10-25 10:30 (UTC+8)",
   "kickoff_ms": 1792895400000,
@@ -4495,6 +4547,32 @@
   "files": {
    "red_diff": "/data/dsh/bot/workspace/odds/3041384/red_diff_3041384.html",
    "sum_delta_table": "/data/dsh/bot/workspace/odds/3041384/sum_delta_table_3041384.html"
+  }
+ },
+ {
+  "mid": "3067142",
+  "kickoff": "2026-10-25 12:00 (UTC+8)",
+  "kickoff_ms": 1792900800000,
+  "league": "日女聯",
+  "home": "RB大宮松鼠女足",
+  "away": "大阪櫻花女足",
+  "hcap": 0.0,
+  "books": 167,
+  "n8": 64,
+  "avg": [
+   2.5782812499999976,
+   3.112187499999998,
+   2.4928125
+  ],
+  "payout": 90.06363907870649,
+  "sum": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "files": {
+   "red_diff": "/data/dsh/bot/workspace/odds/3067142/red_diff_3067142.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/3067142/sum_delta_table_3067142.html"
   }
  },
  {
