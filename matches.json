@@ -4038,7 +4038,7 @@
   "league": "美冠聯",
   "home": "路易斯維爾FC",
   "away": "底特律城",
-  "hcap": 0.25,
+  "hcap": 0.5,
   "books": 297,
   "n8": 202,
   "avg": [
@@ -4057,6 +4057,34 @@
    "red_diff": "/data/dsh/bot/workspace/odds/2942689/red_diff_2942689.html",
    "post_freeze": "/data/dsh/bot/workspace/odds/2942689/post_freeze_2942689.html",
    "sum_delta_table": "/data/dsh/bot/workspace/odds/2942689/sum_delta_table_2942689.html"
+  }
+ },
+ {
+  "mid": "2942692",
+  "kickoff": "2026-10-25 07:00 (UTC+8)",
+  "kickoff_ms": 1792882800000,
+  "league": "美冠聯",
+  "home": "匹茲堡獵犬河隊",
+  "away": "伯明翰軍團",
+  "hcap": 0.5,
+  "books": 300,
+  "n8": 212,
+  "avg": [
+   1.8946226415094338,
+   3.1377358490566003,
+   3.8514150943396275
+  ],
+  "payout": 90.40319804905174,
+  "sum": [
+   1.3599999999999994,
+   -0.5500000000000007,
+   -1.4500000000000006
+  ],
+  "files": {
+   "freeze_rows": "/data/dsh/bot/workspace/odds/2942692/freeze_rows_2942692.html",
+   "red_diff": "/data/dsh/bot/workspace/odds/2942692/red_diff_2942692.html",
+   "post_freeze": "/data/dsh/bot/workspace/odds/2942692/post_freeze_2942692.html",
+   "sum_delta_table": "/data/dsh/bot/workspace/odds/2942692/sum_delta_table_2942692.html"
   }
  },
  {
